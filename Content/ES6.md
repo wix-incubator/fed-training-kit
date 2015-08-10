@@ -1,6 +1,6 @@
 *[![Feedback](/assets/feedback.gif) Got feedback?](https://docs.google.com/a/wix.com/forms/d/1aJHLJJsRKY_5TgHgsqh1Yrkt_EYaDkm-t8wCKNqGLMo/viewform?usp=send_form)*
 
-# What is ECMAScript6?
+# What is ECMAScript 6?
 
 [ECMAScript 6](http://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-overview), also known as ECMAScript 2015, is the latest version of the ECMAScript standard. ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009.
 
