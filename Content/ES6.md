@@ -4,7 +4,7 @@
 
 [ECMAScript 6](http://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-overview), also known as ECMAScript 2015, is the latest version of the ECMAScript standard. ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009.
 
-![](/assets/clock-16.png) **This kit will take you approximately X hours**
+![](/assets/clock-16.png) **This kit will take you approximately 5 hours**
 
 <a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
@@ -58,7 +58,7 @@ Using transpilers in the last couple of years has become the norm. [Babel](https
   Write a class `BeerSong` using ES6 that generates the Beer Song (i.e., “99 bottles of beer on the wall…”). Solution example code [here](http://gwmccull.github.io/2015/06/05/exercism-beer-song-es6/).
   You can use [Babel](https://babeljs.io/) to experiment in it too.
 
-- [ ] **Learn ES6 by Fixing Failing Tests** <a href="#"><img src="/assets/time-3h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
+- [ ] **Learn ES6 by Fixing Failing Tests** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   [This kata assembly](http://es6katas.org/) covers all of the topics, relatively advanced. Requires understanding of basic testing principles.
   
 
