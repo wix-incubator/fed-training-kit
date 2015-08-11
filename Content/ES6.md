@@ -57,15 +57,11 @@ Take your time with diving into one, more or all of them.
 
 # Extras
 
-- **[ES6 Learning Repo](https://github.com/ericdouglas/ES6-Learning)** 
-  
+- **[ES6 Learning Repo](https://github.com/ericdouglas/ES6-Learning)**    
   An impressive amount of materials to learn ES6 features the way you prefer (reading materials/courses/talks/podcasts etc.).
-  
-- **[Learning ES6 by Example](http://learnharmony.org/#)** 
-  
-  Executable, editable examples. Covers some basic topics. 
-  
-- **[In Depth ES6](http://www.2ality.com/search/label/esnext)** 
-  
-  A collection of blog posts, giving in-depth coverage of various ES6 features, including specification excerpts and underlying specification details.
 
+- **[Learning ES6 by Example](http://learnharmony.org/#)**    
+  Executable, editable examples. Covers some basic topics. 
+
+- **[In Depth ES6](http://www.2ality.com/search/label/esnext)**    
+  A collection of blog posts, giving in-depth coverage of various ES6 features, including specification excerpts and underlying specification details.
