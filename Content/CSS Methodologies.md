@@ -16,17 +16,17 @@ They protect us from spaghetti code and improve our CSS code readability.
 
   Writing CSS is really simple, we’ve been doing it for many years. 
   But the problem is, that as our project scales up, our CSS code becomes unwieldy and handling it becomes hard. Really hard.
-  It gets harder to maintain, harder to debug and unoptimized lines of code lead to poor performance. 
+  It gets harder to maintain, harder to debug and un-optimized lines of code lead to poor performance. 
   And guess what? Someone is going to use your code to do something with it. 
-  They may hesitate to use it, so they'll write new classes, IDs, etc. which will lead to redundancy and (surprise!) to unoptimized code. 
+  They may hesitate to use it, so they'll write new classes, IDs, etc. which will lead to redundancy and (surprise!) to un-optimized code. 
   
   Smart people across the world have tried to solve these painful points by working on various solutions like pre-processors, standards, methodologies, etc. 
   In this topic we’ll spotlight some of the famous methodologies employed by many professional front end engineers. 
 
 **OOCSS (Object Oriented CSS)**  
-Probably the most famous moethodology. 
-First on, OOCSS may be a misleading name. It implies ideas and behaviours that simply don’t exist in CSS. 
-What it is, is this: the core idea is to seperate structure and skin, content and container to be able to change them at will
+Probably the most famous methodology. 
+First on, OOCSS may be a misleading name. It implies ideas and behaviors that simply don’t exist in CSS. 
+What it is, is this: the core idea is to separate structure and skin, content and container to be able to change them at will
 and create a front end framework with re-usable components.
 
 - **[Intro to OOCSS](https://www.youtube.com/watch?v=IKFq2cSbQ4Q&feature=youtu.be&t=2m59s)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
@@ -34,11 +34,11 @@ and create a front end framework with re-usable components.
 
 
 - **[How to Implement OOCSS](http://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
-  Focuses on concepts that help acheive the main goal of the methodology. 
+  Focuses on concepts that help achieve the main goal of the methodology. 
   
   
 **BEM (Block, Element, Modifier)**  
-BEM is a naming convension that declares the relationship between your BEMs *in their name*, in order to give your CSS classes more transparency and meaning to other developers.
+BEM is a naming convention that declares the relationship between your BEMs *in their name*, in order to give your CSS classes more transparency and meaning to other developers.
 
 
 - **[Intro to BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
@@ -62,21 +62,21 @@ It is an attempt to document a consistent approach to site development when usin
 
 - [ ] **Step 1 - OOCSS** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   [Here](https://gist.github.com/xiwcx/9470018#file-organized-css-exercise-1-oocss)'s the HTML for the following example.
-Write the CSS, implementing OOCSS. Solution file availble [here](http://codepen.io/xiwcx/pen/BnLbm).
+Write the CSS, implementing OOCSS. Solution file available [here](http://codepen.io/xiwcx/pen/BnLbm).
 
   ![](https://github.com/xiwcx/organizing-css/blob/master/img/exercise1-oocss.jpg)
   
   
 - [ ] **Step 2 - SMACSS** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   [Here](https://gist.github.com/xiwcx/9470018#file-organized-css-exercise-1-oocss)'s the HTML for the following example.
-Write the CSS, implementing SMACSS. Solution file availble [here](http://codepen.io/xiwcx/pen/xzrfg).
+Write the CSS, implementing SMACSS. Solution file available [here](http://codepen.io/xiwcx/pen/xzrfg).
 
   ![](https://github.com/xiwcx/organizing-css/blob/master/img/exercise2-smacss.jpg)
   
   
 - [ ] **Step 3 - BEM** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   [Here](https://gist.github.com/xiwcx/9470018#file-organized-css-exercise-1-oocss)'s the HTML for the following example.
-Write the CSS, implementing BEM. Solution file availble [here](http://codepen.io/xiwcx/pen/JvKzp).
+Write the CSS, implementing BEM. Solution file available [here](http://codepen.io/xiwcx/pen/JvKzp).
 
   ![](https://github.com/xiwcx/organizing-css/blob/master/img/exercise3-bem.jpg)
   
