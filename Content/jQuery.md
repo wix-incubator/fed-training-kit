@@ -71,7 +71,7 @@ Getter methods can retrieve information from DOM elements for later use, for exa
   [Here](http://www.w3schools.com/jquery/jquery_get_started.asp) are instructions for how to get started.
 
 
-- [ ] **[Step 3 - Practice Actual Work](https://gist.github.com/xiwcx/9470018#file-organized-css-exercise-1-oocss)** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
+- [ ] **[Step 3 - Practice Actual Work](https://github.com/macloo/jquery_exercises)** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   These exercises are provided in some context, to experience stuff you'll actually do with jQuery.
 
 
