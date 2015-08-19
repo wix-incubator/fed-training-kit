@@ -46,7 +46,7 @@ Though slow-going, this tutorial shows by example selectors at work - how a mani
   
   
 **Manipulate the DOM**  
-Once you select the DOM element, you can invoke some method on it; usually the syntax is `$(selector).method()`.
+Once you select the DOM element, you can invoke some methods on it; usually the syntax is `$(selector).method()`.
 Setter methods can:
 - Change one of the attributes of an element, for example: `$("a").attr("title", "Click me!");`.
 - Set an element's style properties, for example: `$("div").css("background-color","red");`.
