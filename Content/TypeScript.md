@@ -53,7 +53,7 @@ A great run-through TypeScript's features, that provides you with enough knowled
 
 - [ ] **Experience TypeScript in the Browser** <a href="#"><img src="/assets/time-5m.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   Copy one of [these](http://www.typescriptlang.org/Samples) TypeScript code samples (select one of the ts files) to the [playground](http://www.typescriptlang.org/Playground).
-  Hover over variables, classes etc. to view their types. 
+  Hover variables, classes etc. to view their types. 
   
   
 - [ ] **Add Types to JS Sample Code** <a href="#"><img src="/assets/time-30m.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
