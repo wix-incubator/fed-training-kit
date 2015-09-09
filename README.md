@@ -33,4 +33,5 @@ Follow these steps to create a Kit for a new engineer on your team:
 * ![](assets/time-3h.png)  [jQuery](https://github.com/wix/ng-training-kit/blob/master/Content/jQuery.md)
 * ![](assets/time-5h.png)  [ECMAScript 6](https://github.com/wix/ng-training-kit/blob/master/Content/ES6.md)
 * ![](assets/time-5h.png)  [CSS Methodologies](https://github.com/wix/ng-training-kit/blob/master/Content/CSS%20Methodologies.md)
+* ![](assets/time-1d.png)  [JavaScript Basics](https://github.com/wix/ng-training-kit/blob/master/Content/JavaScript%20Basics.md)
 * ![](assets/time-1d.png)  [Website Architecture Basics](https://github.com/wix/ng-training-kit/blob/master/Content/Website%20Architecture%20Basics.md)
