@@ -74,7 +74,7 @@ This creates an object that we access using the variable `jason`.
 Inside the object, we can declare any number of properties using a `"name": "value"` pairing, separated by commas. 
 To access the information stored in jason, we can simply refer to the name of the property we need. For instance:
 
-`document.write('Jason is ' jason.age); // Output: Jason is 24`
+`document.write('Jason is ', jason.age); // Output: Jason is 24`
 
 Many applications use JSON for data interchange. [This](http://graph.facebook.com/youtube) for example, is the JSON data of Facebook's [Youtube page](http://www.facebook.com/youtube). The page's name, number of likes etc. are all represented in pairs, as we've learned, allowing update of the page's data.
 
