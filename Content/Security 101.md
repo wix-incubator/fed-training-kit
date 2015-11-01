@@ -26,7 +26,7 @@ Read chapter 2.1 – provides a good intro of the web application's building blo
   -	[SQL injection](http://www.veracode.com/security/sql-injection) 
   -	[Cross Site Scripting(XSS)](https://www.youtube.com/watch?v=7M-R6U2i5iI)
   -	[Cross Site Request Forgery (CSRF)](https://www.youtube.com/watch?v=oSvl1cdF4UM) 
-  - For more risks, see [Extras](https://github.com/wix/ng-training-kit/new/master/Content#extras).
+  - For more risks, see [Extras](https://github.com/wix/ng-training-kit/blob/master/Content/Security%20101.md#extras).
 
 
 - **[Security Storms in Your JavaScript](https://www.youtube.com/watch?v=JcctFlYstqM)**   <a href="#"><img src="/assets/time-30m.png"></img></a> <a href="#"><img src="/assets/tag-video.png"></img></a>          
