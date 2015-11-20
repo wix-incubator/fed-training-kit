@@ -32,6 +32,7 @@ Follow these steps to create a Kit for a new engineer on your team:
 * ![](assets/time-3h.png)  [TDD](https://github.com/wix/server-training-kit/blob/master/content/TDD.md) 
 * ![](assets/time-3h.png)  [Lodash](https://github.com/wix/ng-training-kit/blob/master/Content/Lodash/Lodash.md)
 * ![](assets/time-3h.png)  [jQuery](https://github.com/wix/ng-training-kit/blob/master/Content/jQuery.md)
+* ![](assets/time-3h.png)  [HTTP](https://github.com/wix/server-training-kit/blob/master/content/HTTP.md)
 * ![](assets/time-5h.png)  [ECMAScript 6](https://github.com/wix/ng-training-kit/blob/master/Content/ES6.md)
 * ![](assets/time-5h.png)  [CSS Methodologies](https://github.com/wix/ng-training-kit/blob/master/Content/CSS%20Methodologies.md)
 * ![](assets/time-5h.png)  [Security 101](https://github.com/wix/ng-training-kit/blob/master/Content/Security%20101.md)
