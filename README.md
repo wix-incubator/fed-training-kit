@@ -38,3 +38,4 @@ Follow these steps to create a Kit for a new engineer on your team:
 * ![](assets/time-5h.png)  [Security 101](https://github.com/wix/ng-training-kit/blob/master/Content/Security%20101.md)
 * ![](assets/time-1d.png)  [JavaScript Basics](https://github.com/wix/ng-training-kit/blob/master/Content/JavaScript%20Basics.md)
 * ![](assets/time-1d.png)  [Website Architecture Basics](https://github.com/wix/ng-training-kit/blob/master/Content/Website%20Architecture%20Basics.md)
+* ![](assets/time-1d.png)  [Client Server Communications](https://github.com/wix/ng-training-kit/blob/master/Client%20Server%20Communications.md)
