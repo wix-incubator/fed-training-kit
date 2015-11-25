@@ -11,7 +11,7 @@ Many times the roles can be reversed. Assuming that the server does not hold the
 
 In this training kit we will explore several ways and types of communication when dealing with a browser, JS, and the server.
 
-![](/assets/clock-16.png) **This kit will take you approximately X hours**
+![](/assets/clock-16.png) **This kit will take you approximately 1-2 days**
 
 <a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
