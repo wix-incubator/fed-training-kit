@@ -64,6 +64,12 @@ The plugin promotes the Yeoman workflow that is comprised of three types of tool
 
 # Extras
 
+- **[Build Tools vs npm Scripts: Why Not Both?](http://engineering.hobsons.com/2015/06/26/build-tools-vs-npm-scripts-why-not-both/)**
+- **[What npm is capable of as a build tool](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)**
+
+
+**Quick Reference Links**
+
 - **npm**    
   - [Search packages](https://www.npmjs.com/)
   - [Docs you're looking for](https://docs.npmjs.com/)
