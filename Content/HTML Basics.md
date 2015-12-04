@@ -45,7 +45,7 @@
 # Practice
 
 - **Step 1 - Build a Webpage** <a href="#"><img src="/assets/time-30m.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
-  Follow the instructions in this [short exercise](https://www.codecademy.com/en/courses/web-beginner-en-LceTK/0/1?curriculum_id=50579fb998b470000202dc8b
+  Follow the instructions in this [short exercise](https://www.codecademy.com/en/courses/web-beginner-en-LceTK/0/1?curriculum_id=50579fb998b470000202dc8b)to practice some basic tags.
 
 - **Step 2 - Build a Profile** <a href="#"><img src="/assets/time-30m.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
     Follow the instructions in this [short exercise](https://www.codecademy.com/courses/web-beginner-en-9x6JW/0/1?curriculum_id=50579fb998b470000202dc8b) to practice some basic structures.
