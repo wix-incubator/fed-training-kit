@@ -14,9 +14,9 @@
 # Learn
 
 ####HTML Markup 
-- **[HTML tags, elements, and attributes](https://www.youtube.com/watch?v=9gTw2EDkaDQ)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[HTML Tags, Elements, and Attributes](https://www.youtube.com/watch?v=9gTw2EDkaDQ)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
-- **[Dealing with Text: separate lines, headlines and paragraphs](https://www.youtube.com/watch?v=YcApt9RgiT0)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Dealing with Text](https://www.youtube.com/watch?v=YcApt9RgiT0)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
 - **[Images and Hyperlinks](https://www.youtube.com/watch?v=CGSdK7FI9MY)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
