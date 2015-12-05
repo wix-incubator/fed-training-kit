@@ -22,24 +22,31 @@
 
 - **[Semantic Elements](https://www.youtube.com/watch?v=dDn9uw7N9Xg)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
-- **[Organizing Data with Lists](http://learn.shayhowe.com/html-css/creating-lists/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+####Organizing Data 
+
+- **[Lists](http://learn.shayhowe.com/html-css/creating-lists/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Read up to the point of styling the list – this is done with CSS.
 
-- **[Organizing Data with Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Read up to the point of aligning text – this is done with CSS.
 
 - **[A Simple Form](https://www.youtube.com/watch?v=GNuCNQDGBnk)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>  <img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
   See the demo first, and then dive into [some more controls](http://learn.shayhowe.com/html-css/building-forms/) you're interested in, such as check boxes, drop-down lists etc.
 
-- **[HTML Accessibility](https://www.youtube.com/watch?v=x18vEEfpK3g)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png">
-  
-  Accessibility is comprised of two parts:
+####HTML Accessibility
+
+Accessibility is comprised of two parts:
   
   1. Help the user to get additional information regarding to “what am I hovering over?” in the form of tooltip.
   2. Increase the ability to use the web by people with disabilities by increasing fonts, conversion of text to speech etc. <br></br>
 
-  You are not supposed to tackle this task yourself. Designers usually think it over regarding to colors selection and content writers think how they name important text blocks such as links. <br></br>
-  What is YOUR part as a developer? Watch this video, but keep in mind that not all of these are a must. HTML web accessibility is a sensitive issue (and legal in some parts of the world), so just make sure you're updated with company policy from time to time.
+You are not supposed to tackle this task yourself. Designers usually think it over regarding to colors selection and content writers think how they name important text blocks such as links. <br></br>
+  What is YOUR part as a developer?
+  
+  
+- **[Making Accessible Web Apps Using HTML5 and ChromeVox](https://www.youtube.com/watch?v=x18vEEfpK3g)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png">
+  
+  Watch this video, but keep in mind that not all of these are a must. HTML web accessibility is a sensitive issue (and legal in some parts of the world), so just make sure you're updated with company policy from time to time.
 
 
 # Practice
