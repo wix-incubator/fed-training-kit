@@ -27,8 +27,8 @@
 - **[Lists](http://learn.shayhowe.com/html-css/creating-lists/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Read up to the point of styling the list – this is done with CSS.
 
-- **[Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
-  Read up to the point of aligning text – this is done with CSS.
+- **[Tables](https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/p/html-tables)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+  A simple demo of structuring a table with [table HTML tags](http://www.html-5-tutorial.com/table-tag.htm).
 
 - **[A Simple Form](https://www.youtube.com/watch?v=GNuCNQDGBnk)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>  <img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
   See the demo first, and then dive into [some more controls](http://learn.shayhowe.com/html-css/building-forms/) you're interested in, such as check boxes, drop-down lists etc.
