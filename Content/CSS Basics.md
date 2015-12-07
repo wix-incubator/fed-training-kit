@@ -28,6 +28,9 @@ the language can be applied to any XML document, including plain XML, SVG and XU
 - **[Finding the Right CSS Selector](https://www.youtube.com/watch?v=V2aAEzlvyDc)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
   This short video demonstrates how to view the CSS selectors of an element through Chrome Developer tools.
 
+- **[Complex Selectors](http://learn.shayhowe.com/advanced-html-css/complex-selectors/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+  Discusses old and new selectors and how best to use them.
+
 Most guides neglect to mention the asterisk `*` as the universal selector for CSS. 
 It matches a single element of any type. Omitting the asterisk with simple selectors has the same effect. 
 For instance, `*.warning` and `.warning` are considered equal.
