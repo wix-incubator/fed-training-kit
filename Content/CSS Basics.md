@@ -8,7 +8,7 @@ yet powerful presentation language created to style the appearance of content—
 Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, 
 the language can be applied to any XML document, including plain XML, SVG and XUL. 
 
-![](/assets/clock-16.png) **This kit will take you approximately X hours**
+![](/assets/clock-16.png) **This kit will take you approximately 1+ day**
 
 <a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
