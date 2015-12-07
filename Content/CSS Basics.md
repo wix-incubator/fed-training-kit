@@ -17,7 +17,7 @@ the language can be applied to any XML document, including plain XML, SVG and XU
 
 # Learn
 
-####Targeting Elements for Styling
+####Targeting Elements and Styling
 
 - **[CSS Layout Demo](https://www.youtube.com/watch?v=0afZj1G0BIE)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
   A demonstration of what you can do with a CSS layout. This is a 12 minute video, but we don't have a 12 minute label :)
@@ -35,15 +35,8 @@ Most guides neglect to mention the asterisk `*` as the universal selector for CS
 It matches a single element of any type. Omitting the asterisk with simple selectors has the same effect. 
 For instance, `*.warning` and `.warning` are considered equal.
 
-
-####Styling
-
-
 - **[Working with Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/#table-borders)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Covers table borders, table striping and aligning text.
-
-- **[Working with Typogrophy](http://learn.shayhowe.com/html-css/working-with-typography/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
-  Explains properties of text and fonts, as well as web-safe fonts and embedding web fonts.
 
 
 ####Positioning
