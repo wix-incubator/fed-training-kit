@@ -1,6 +1,6 @@
 # About This Kit
 
-Welcome to the Wix NG Guild Training Kit!
+Welcome to the FED Guild Training Kit!
 
 This kit is an assembly of online training references for the purpose of self-learning and practicing some core tools and methodologies used in the guild, that every new engineer should know.
 
