@@ -17,9 +17,9 @@ Why use jQuery?
 
 ![](/assets/clock-16.png) **This kit will take you approximately 3.5 hours**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
@@ -37,11 +37,11 @@ jQuery selectors start with the dollar sign and parentheses − `$()`.
 *NOTE* − you can replace `$()` with `jQuery()` in case you are using any other JavaScript library where the $ sign conflicts 
 with something else.
 
-- **[Select Away](https://www.youtube.com/watch?v=4i7Vk_Okav4)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Select Away](https://www.youtube.com/watch?v=4i7Vk_Okav4)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 Though slow-going, this tutorial shows by example selectors at work - how a manipulation changes according to different selection of the DOM elements.
 
 
-- **[Play with Selectors](http://www.w3schools.com/jquery/trysel.asp)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Play with Selectors](http://www.w3schools.com/jquery/trysel.asp)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   An interactive guide - you click a selector's syntax and it highlights the selected elements.
   
   
@@ -54,7 +54,7 @@ Setter methods can:
 
 Getter methods can retrieve information from DOM elements for later use, for example: `var listItem = $( 'li' ).first();`.
 
-- **[Traversing & Manipulating](http://jqfundamentals.com/chapter/traversing-manipulating)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Traversing & Manipulating](http://jqfundamentals.com/chapter/traversing-manipulating)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   A nice tutorial that splits the methods api according to their actual use, with examples.
   You can play with methods [here](http://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_sel_all2).
   [Here](https://api.jquery.com/category/manipulation/)'s an API of the most popular methods.

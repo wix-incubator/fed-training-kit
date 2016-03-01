@@ -15,7 +15,7 @@ _.assign({ 'a': 1 }, { 'b': 2 }, { 'c': 3 });
 
 ![](/assets/clock-16.png) **This kit will take you approximately 3 hours**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
 <a href="#extras"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
@@ -23,20 +23,20 @@ _.assign({ 'a': 1 }, { 'b': 2 }, { 'c': 3 });
 # Learn
 
 
-- **[Intro to Lodash](https://egghead.io/lessons/core-javascript-introduction-to-lodash)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Intro to Lodash](https://egghead.io/lessons/core-javascript-introduction-to-lodash)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Watch this short capabilities demonstration by egghead.
   
   Once you are done, you may ask yourself this - if all of Lodash’s methods can be (and have been) implemented in plain JavaScript, why use it?
   Imagine implementing the methods you've seen in this video in plain JS, and match how fast the video demostration was - Lodash is more readable, expressive, functional, convenient and robust. 
 
 
-- **[Performance Optimizations](https://www.youtube.com/watch?v=cD9utLH3QOk)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Performance Optimizations](https://www.youtube.com/watch?v=cD9utLH3QOk)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Watch this talk by the writer of Lodash John-David Dalton, about how performance issues were thought of and handled, 
   during Lodash's 3rd version features development. 
   It gives some insight to what's considered the `secret sauce` of the library.
   
-- **[API Documentation](https://lodash.com/docs)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
-  Browse [this lecture](https://github.com/wix/ng-training-kit/blob/master/Content/Lodash/Lodash%20draft%201.pptx) to get the gist.
+- **[API Documentation](https://lodash.com/docs)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
+  Browse [this lecture](https://github.com/wix/fed-training-kit/blob/master/Content/Lodash/Lodash%20draft%201.pptx) to get the gist.
   [Here](https://www.youtube.com/watch?v=kdfikit351Y#t=1m)'s a nice intro for the API segments and exmaples.
 
 

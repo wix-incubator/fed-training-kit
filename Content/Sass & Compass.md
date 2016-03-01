@@ -10,16 +10,16 @@ like variables, nesting, mixins, inheritance and other nifty goodies. You can se
 
 ![](/assets/clock-16.png) **This kit will take you approximately 3 hours**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
 
 SASS is a simple and easy language, so simple that it can be learned in half an hour. So let's start with that.
   
-- **[The Official SASS Guide](http://sass-lang.com/guide)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[The Official SASS Guide](http://sass-lang.com/guide)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Explains the basics: 
   - Nesting
   - Variables (`$some-variable`)
@@ -31,7 +31,7 @@ SASS is a simple and easy language, so simple that it can be learned in half an 
   
 Ready to see it in action? 
 
-- **[Sass & Compass Demo](https://www.youtube.com/watch?v=wz3kElLbEHE)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Sass & Compass Demo](https://www.youtube.com/watch?v=wz3kElLbEHE)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   This tutorial demonstrates what you've learned so far, but also gives a good intro with the reasons for using Sass and Compass, installation and creating a new project. Click the 'Show More' to view what this video covers and when exactly.
   
 

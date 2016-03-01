@@ -7,9 +7,9 @@ This kit covers a few of them.
 
 ![](/assets/clock-16.png) **This kit will take you approximately X hours**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
@@ -22,7 +22,7 @@ A package manager is a collection of tools that automate the process of installi
 Packages contain metadata and a list of dependencies necessary for the software to run properly. 
 
 
-- **[Getting Started](http://www.sitepoint.com/beginners-guide-node-package-manager/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Getting Started](http://www.sitepoint.com/beginners-guide-node-package-manager/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   A Beginner’s Guide to npm - the Node Package Manager.
 
 
@@ -33,7 +33,7 @@ The important thing to note here is that Bower is just a package manager, and no
 The main difference between npm and Bower is that npm is usually used for managing the server-side packages and tools, where Bower is usually used for the client-side packages, which are running in the browser.
 
 
-- **[Getting Started](http://blog.teamtreehouse.com/getting-started-bower)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Getting Started](http://blog.teamtreehouse.com/getting-started-bower)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   About installing the Bower CLI and the various commands that are available for managing packages.
 
 
@@ -41,7 +41,7 @@ The main difference between npm and Bower is that npm is usually used for managi
 [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects. When working on a JavaScript project, there are a bunch of things you'll want to do regularly – concatenate given files, run JSHint on your code, run tests, minify your scripts etc. Instead of doing all those tasks manually, Grunt can be used to do that automatically.
 Grunt is NOT a standalone build tool, it is a task runner. A task can be anything that needs to be done for the project, to turn it from a bunch of code files to something that can be distributed. Tasks are modules installed with npm.
 
-- **[Using Grunt Demo](https://www.youtube.com/watch?v=TMKj0BxzVgw)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a> <img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Using Grunt Demo](https://www.youtube.com/watch?v=TMKj0BxzVgw)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a> <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Start with the demo and what you don't understand, figure out from [this guide](http://gruntjs.com/getting-started). [Here](http://gruntjs.com/sample-gruntfile)'s a link to a walkthrough of a sample Gruntfile.
  
 
@@ -49,7 +49,7 @@ Grunt is NOT a standalone build tool, it is a task runner. A task can be anythin
 [Yeoman](http://yeoman.io/) helps you kickstart new projects, prescribing best practices and tools to help you stay productive. To do so, it provides a generator ecosystem. A generator is basically a plugin that can be run with the `yo` command to scaffold complete projects or useful parts.
 The plugin promotes the Yeoman workflow that is comprised of three types of tools: the scaffolding tool (yo), the build tool (Grunt, Gulp, etc) and the package manager (like Bower and npm). It also includes support for linting, testing, minification and much more, so developers can focus on solutions rather than worrying about the little things.
 
-- **[Getting Started](http://yeoman.io/learning/index.html)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Getting Started](http://yeoman.io/learning/index.html)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Explains installation, basic scaffolding and using packages such as Bower, Gulp and Grunt.
 
 

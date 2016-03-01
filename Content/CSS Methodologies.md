@@ -7,7 +7,7 @@ They protect us from spaghetti code and improve our CSS code readability.
 
 ![](/assets/clock-16.png) **This kit will take you approximately 5 hours**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
 <a href="#extras"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
@@ -29,11 +29,11 @@ First on, OOCSS may be a misleading name. It implies ideas and behaviors that si
 What it is, is this: the core idea is to separate structure and skin, content and container to be able to change them at will
 and create a front end framework with re-usable components.
 
-- **[Intro to OOCSS](https://www.youtube.com/watch?v=IKFq2cSbQ4Q&feature=youtu.be&t=2m59s)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Intro to OOCSS](https://www.youtube.com/watch?v=IKFq2cSbQ4Q&feature=youtu.be&t=2m59s)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Watch until minute 8.40. Gives great introduction to the methodology and an example of how to identify repeating patterns, define them once and reuse it. 
 
 
-- **[How to Implement OOCSS](http://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[How to Implement OOCSS](http://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Focuses on concepts that help achieve the main goal of the methodology. 
   
   
@@ -41,10 +41,10 @@ and create a front end framework with re-usable components.
 BEM is a naming convention that declares the relationship between your BEMs *in their name*, in order to give your CSS classes more transparency and meaning to other developers.
 
 
-- **[Intro to BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Intro to BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   This is a good intro to BEM syntax, why in spite of its ugliness it serves a purpose and most importantly - when not to use it.
   
-- **[Why We Should Consider BEM](https://css-tricks.com/bem-101/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Why We Should Consider BEM](https://css-tricks.com/bem-101/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Read the ”Why should we consider BEM?” chapter in order to understand the motivation behind the methodology.
 
 
@@ -53,7 +53,7 @@ SMACSS (pronounced “smacks”) is a way to examine your design process and sug
 It is an attempt to document a consistent approach to site development when using CSS. 
 
 
-- **[SMACSS Explained](https://www.youtube.com/watch?v=C4z_9F6nfS8#t=7m)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[SMACSS Explained](https://www.youtube.com/watch?v=C4z_9F6nfS8#t=7m)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   An overview of the architecture by the creator of the methodology.
 
 

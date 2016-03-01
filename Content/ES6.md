@@ -6,7 +6,7 @@
 
 ![](/assets/clock-16.png) **This kit will take you approximately 5 hours**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
 <a href="#extras"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
@@ -21,7 +21,7 @@
 Using ES6 Right now - the majority of browsers [are catching up](https://kangax.github.io/compat-table/es6/) on implementing new ES6 features but not one has full support. Using transpilers in the last couple of years has become the norm. [Babel](https://babeljs.io/) is an ES6 to ES5 transpiler that supports all of the ES6 features.
 
   
-- **[ES6 Right Now - Features Review](https://www.youtube.com/watch?v=rwm5JLqCpdk#t=6m33s)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[ES6 Right Now - Features Review](https://www.youtube.com/watch?v=rwm5JLqCpdk#t=6m33s)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Watch this guy John Paul - a run through ES6 introduced features.
   
   
@@ -29,19 +29,19 @@ There's a big difference between learning new syntax, and understanding what you
 Take your time with diving into one, more or all of them.
 
 
-- **[Arrow Functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Arrow Functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   The variations of arrow function syntax and in what arrow functions differ from regular JS functions.
   
-- **[Classes](http://www.2ality.com/2015/02/es6-classes-final.html)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Classes](http://www.2ality.com/2015/02/es6-classes-final.html)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Explains how classes work and how subclassing is handled. You can skip sections 1 and 2 if you know ES6 class essentials. 
 
-- **[Destructuring](https://strongloop.com/strongblog/getting-started-with-javascript-es6-destructuring/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Destructuring](https://strongloop.com/strongblog/getting-started-with-javascript-es6-destructuring/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Explains how destructuring of arrays, objects and function arguments can help with more explicit variable and argument declaration and assignment. 
   
-- **[Modules](http://www.2ality.com/2014/09/es6-modules-final.html)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Modules](http://www.2ality.com/2014/09/es6-modules-final.html)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   A very good coverage about the new ES6 modules, its syntax and design goals.
 
-- **[Promises](http://www.datchley.name/es6-promises/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Promises](http://www.datchley.name/es6-promises/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Explains how to create a promise and how to use it.
   
 

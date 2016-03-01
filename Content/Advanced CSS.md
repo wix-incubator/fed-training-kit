@@ -3,35 +3,35 @@
 # What is Advanced CSS?
 
 This kit will deal with advanced things you can do with CSS, such as working with typography, [responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design) and cool stuff like transitions and animations. 
-The [CSS Basics](https://github.com/wix/ng-training-kit/blob/master/Content/CSS%20Basics.md) training kit is a prerequisite for this kit.
+The [CSS Basics](https://github.com/wix/fed-training-kit/blob/master/Content/CSS%20Basics.md) training kit is a prerequisite for this kit.
 
 ![](/assets/clock-16.png) **This kit will take you approximately 1 day**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
 
-- **[Working with Typogrophy](http://learn.shayhowe.com/html-css/working-with-typography/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Working with Typogrophy](http://learn.shayhowe.com/html-css/working-with-typography/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Explains properties of text and fonts, as well as web-safe fonts and embedding web fonts.
 
-- **[Why Use Responsive Web Design](https://teamtreehouse.com/library/why-use-responsive-web-design)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Why Use Responsive Web Design](https://teamtreehouse.com/library/why-use-responsive-web-design)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   A good intro that demonstrates motivation for responsiveness.
 
-- **[Responsive from Scratch](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Responsive from Scratch](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Now that you know why use responsiveness, learn how to actually do it.
  
-- **[What is Flexbox?](http://spaceninja.com/2015/08/24/what-is-flexbox/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[What is Flexbox?](http://spaceninja.com/2015/08/24/what-is-flexbox/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   It is a known claim that Flexbox will change the way we think about layouts. Read just the introduction of this post to understand exactly what it is.
    
-- **Flexbox Full Guide - [Read](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)** or **[Watch](http://flexbox.io/#/view/Vj7NZ6FiQvo)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"> 
+- **Flexbox Full Guide - [Read](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)** or **[Watch](http://flexbox.io/#/view/Vj7NZ6FiQvo)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"> 
 
-- **[CSS Transitions](https://www.youtube.com/watch?v=eRcAf69IdCk)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[CSS Transitions](https://www.youtube.com/watch?v=eRcAf69IdCk)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Explains how to make your everyday property changes come to life with CSS transitions.
 
-- **[CSS Animations](https://www.youtube.com/watch?v=LzELw8k1FEY)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[CSS Animations](https://www.youtube.com/watch?v=LzELw8k1FEY)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Explains working with CSS animations by meeting the animation property, @keyframes rule, and more.
 
 

@@ -10,9 +10,9 @@ and you should always consider the security aspects of the code.
 
 ![](/assets/clock-16.png) **This kit will take you approximately 5 hours**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
@@ -23,10 +23,10 @@ There are two steps to handling security issues; One, know the risks. Two, know 
 Read chapter 2.1 – provides a good intro of the web application's building blocks in the context of security.
 
 - **Most Common Attacks Today**   <a href="#"><img src="/assets/time-30m.png"></img></a> <a href="#"><img src="/assets/tag-video.png"></img></a>  <a href="#"><img src="/assets/tag-read.png"></img></a>        
-  -	[SQL injection](http://www.veracode.com/security/sql-injection) 
-  -	[Cross Site Scripting(XSS)](https://www.youtube.com/watch?v=7M-R6U2i5iI)
-  -	[Cross Site Request Forgery (CSRF)](https://www.youtube.com/watch?v=oSvl1cdF4UM) 
-  - For more risks, see [Extras](https://github.com/wix/ng-training-kit/blob/master/Content/Security%20101.md#extras).
+  - [SQL injection](http://www.veracode.com/security/sql-injection) 
+  - [Cross Site Scripting(XSS)](https://www.youtube.com/watch?v=7M-R6U2i5iI)
+  - [Cross Site Request Forgery (CSRF)](https://www.youtube.com/watch?v=oSvl1cdF4UM) 
+  - For more risks, see [Extras](https://github.com/wix/fed-training-kit/blob/master/Content/Security%20101.md#extras).
 
 
 - **[Security Storms in Your JavaScript](https://www.youtube.com/watch?v=JcctFlYstqM)**   <a href="#"><img src="/assets/time-30m.png"></img></a> <a href="#"><img src="/assets/tag-video.png"></img></a>          

@@ -8,15 +8,15 @@ It is most known as the scripting language for Web pages, but used in many non-b
 It is a cross-platform, object-oriented scripting language; small and lightweight. Inside a host environment (e.g., a web browser), 
 JavaScript can be connected to the objects of its environment to provide programmatic control over them.
 
--	***Client-side JavaScript*** extends the core language by supplying objects to control a browser and its Document Object Model (DOM). For example, client-side extensions allow an application to place elements on an HTML form and respond to user events such as mouse clicks, form input, and page navigation.
+- ***Client-side JavaScript*** extends the core language by supplying objects to control a browser and its Document Object Model (DOM). For example, client-side extensions allow an application to place elements on an HTML form and respond to user events such as mouse clicks, form input, and page navigation.
 
--	***Server-side JavaScript*** extends the core language by supplying objects relevant to running JavaScript on a server. For example, server-side extensions allow an application to communicate with a database, provide continuity of information from one invocation to another of the application, or perform file manipulations on a server.
+- ***Server-side JavaScript*** extends the core language by supplying objects relevant to running JavaScript on a server. For example, server-side extensions allow an application to communicate with a database, provide continuity of information from one invocation to another of the application, or perform file manipulations on a server.
 
 ![](/assets/clock-16.png) **This kit will take you approximately 1 day**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
@@ -25,13 +25,13 @@ JavaScript can be connected to the objects of its environment to provide program
 
   JavaScript borrows most of its syntax from Java, but is also influenced by Awk, Perl and Python. To that end, pick a link from this list based on the language you are already familiar with:
   
-- **[Basic JavaScript](http://speakingjs.com/es5/ch01.html)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Basic JavaScript](http://speakingjs.com/es5/ch01.html)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   If you are absolutely clueless, start here :) Browse this guide for syntax you don’t already know, especially working with numbers, strings, loops, functions and arrays.
 
-- **[JavaScript for Object-Oriented Developers](https://www.youtube.com/watch?v=FGNKoHv7xPY)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[JavaScript for Object-Oriented Developers](https://www.youtube.com/watch?v=FGNKoHv7xPY)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   All you need to know to get started with JS coming from Java, C#, php or other OOP languages. 
 
-- **[The *this* Keyword](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[The *this* Keyword](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Learn how to master the *this* keyword, which confuses new and seasoned JavaScript developers alike. 
 
 ####Functional Programming
@@ -39,24 +39,24 @@ JavaScript can be connected to the objects of its environment to provide program
 Functional programming is a programming paradigm - a style of building the structure and elements of computer programs - 
 that treats computation as the evaluation of functions and avoids changing-state and mutable data. 
 
-- **[Immutability](http://www.sitepoint.com/immutability-javascript/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Immutability](http://www.sitepoint.com/immutability-javascript/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Covers what immutability is, how to use it in JavaScript and why it's useful.
 
-- **[Stateful vs. Stateless](http://programmers.stackexchange.com/questions/101337/whats-the-difference-between-stateful-and-stateless)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Stateful vs. Stateless](http://programmers.stackexchange.com/questions/101337/whats-the-difference-between-stateful-and-stateless)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Practical approach for thinking 'stateless' when you code.
   
-- **[Intro to Functional Programming](http://www.srirangan.net/2011-12-functional-programming-in-javascript)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Intro to Functional Programming](http://www.srirangan.net/2011-12-functional-programming-in-javascript)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Hoisting, higher-order functions and closures.
 
 ####The Object-Oriented Basics
 
 A few links to demonstrate how to implement object-oriented concepts in JavaScript. 
 
-- **[Classes](https://www.youtube.com/watch?v=coIsvOMYEi0)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Classes](https://www.youtube.com/watch?v=coIsvOMYEi0)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
-- **[Prototypes](https://www.youtube.com/watch?v=EBoUT2eBlT4)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Prototypes](https://www.youtube.com/watch?v=EBoUT2eBlT4)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
-- **[Inheritance](https://www.youtube.com/watch?v=pu08qQCmw8I)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Inheritance](https://www.youtube.com/watch?v=pu08qQCmw8I)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
 ####Data Interchange with JSON
 
@@ -65,9 +65,9 @@ A few links to demonstrate how to implement object-oriented concepts in JavaScri
 As a simple example, information about me might be written in JSON as follows:
 
 ```var jason = {
-	"age" : "24",
-	"hometown" : "Missoula, MT",
-	"gender" : "male"
+  "age" : "24",
+  "hometown" : "Missoula, MT",
+  "gender" : "male"
 };```
 
 This creates an object that we access using the variable `jason`. 

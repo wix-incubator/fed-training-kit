@@ -11,9 +11,9 @@ We will then continue with exploring two popular designs and what should be cons
 
 ![](/assets/clock-16.png) **This kit will take you approximately 1 day**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
@@ -25,13 +25,13 @@ We will then continue with exploring two popular designs and what should be cons
   So you can look at the DOM as a set of APIs that allows scripting languages (usually JavaScript) to dynamically access and update the document's content, structure and style. 
   The DOM has its own standard and is implemented by browsers vendors; as a result, the DOM API might vary from browser to browser.
 
-- **[What the DOM is]( https://www.youtube.com/watch?v=4Gv81XcC8iE)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[What the DOM is]( https://www.youtube.com/watch?v=4Gv81XcC8iE)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   A visualization of the DOM and its positioning between our HTML and web page.
   
-- **[Traversing the DOM](http://www.kirupa.com/html5/traversing_the_dom.htm)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Traversing the DOM](http://www.kirupa.com/html5/traversing_the_dom.htm)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Explains how to navigate it in order to access the elements you want, which is usually what people tackle with.
   
-- **[Using the DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#Important_Data_Types)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Using the DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#Important_Data_Types)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   In order to use the [DOM API](https://developer.mozilla.org/en-US/docs/Web/API), you first need to be aware of the data types you are accessing in the DOM, as they all have different methods and ways of handling. Continue to ***DOM Interfaces***, up to the point of ***Testing the DOM API***.
 
 
@@ -41,7 +41,7 @@ We will then continue with exploring two popular designs and what should be cons
   Instead, each piece of code is assigned to a specific event and when that event occurs, our code is executed.
   Events may be user-driven e.g., when someone clicks on a page, submits a form etc. They may also be non-user initiated e.g., when a page is loaded, a timer has completed etc. 
 
-- **[DOM Events](http://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[DOM Events](http://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Describes how DOM events work, from listening to events to handling them, maintain their context and more.
 
 
@@ -50,10 +50,10 @@ We will then continue with exploring two popular designs and what should be cons
 Beginners often lack the fundamental knowledge of what exactly happens as a page is being loaded into a browser. 
 Here are a couple of links explaining that.
 
-- **[Execution Order](http://javascript.about.com/od/hintsandtips/a/exeorder.htm)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Execution Order](http://javascript.about.com/od/hintsandtips/a/exeorder.htm)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Describes the order in which the JavaScript in your page gets run.
   
-- **[Document Loading and DOM Lifecycle Events](http://www.breck-mckye.com/blog/2014/04/document-loading-and-DOM-lifecycle-events/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Document Loading and DOM Lifecycle Events](http://www.breck-mckye.com/blog/2014/04/document-loading-and-DOM-lifecycle-events/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   A rundown of document loading lifecycle events.
 
 
@@ -64,13 +64,13 @@ page into the current page. In HTML 4.01, a document may contain a head and a bo
 but not both (a body *and* a frame-set). However, an `<iframe>` can be used within a normal document body. Each browsing context has its own session history and active document. The browsing context that contains the embedded content is called the parent browsing context. 
 The top-level browsing context (which has no parent) is typically the browser window.
 
-- **[Introduction to iFrames](http://javascript.info/tutorial/frames-and-iframes)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Introduction to iFrames](http://javascript.info/tutorial/frames-and-iframes)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   If you don't know how to create or work with iFrames, here's a good place to start.
   
-- **[Cross Window Messaging](http://javascript.info/tutorial/cross-window-messaging-with-postmessage)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Cross Window Messaging](http://javascript.info/tutorial/cross-window-messaging-with-postmessage)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   The cross window messaging API allows windows/frames from multiple domains to communicate with each other. Here's how to implement it.
 
-- **[Limiting Cross Window Messaging](http://javascript.info/tutorial/same-origin-security-policy)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Limiting Cross Window Messaging](http://javascript.info/tutorial/same-origin-security-policy)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Sometimes we want to prevent windows from communicating from security purposes. You should be aware of the *Same Origin* security policy and how to implement it.
 
 
@@ -82,10 +82,10 @@ With an average of over 11s for a page to load on the internet, this is invaluab
 As the user clicks links and interacts with the page, subsequent content is loaded dynamically.
 Most of Wix Templates are single page websites.
 
-- **[Keys to a Successful SPA](https://www.youtube.com/watch?v=46Bu9ms9mBg)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Keys to a Successful SPA](https://www.youtube.com/watch?v=46Bu9ms9mBg)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   An interesting overview of the power of SPAs.
 
-- **[SPA Considerations](http://code.tutsplus.com/tutorials/important-considerations-when-building-single-page-web-apps--net-29356)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[SPA Considerations](http://code.tutsplus.com/tutorials/important-considerations-when-building-single-page-web-apps--net-29356)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   An extensive overview of the important things that should be considered when building SPAs. You can skip the first 2 topics and begin straight from Client-Site Templates.
 
 

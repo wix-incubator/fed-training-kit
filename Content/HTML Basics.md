@@ -6,31 +6,31 @@
 
 ![](/assets/clock-16.png) **This kit will take you approximately 5 hours**
 
-<a href="#learn"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
 
 ####HTML Markup 
-- **[HTML Tags, Elements, and Attributes](https://www.youtube.com/watch?v=9gTw2EDkaDQ)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[HTML Tags, Elements, and Attributes](https://www.youtube.com/watch?v=9gTw2EDkaDQ)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
-- **[Dealing with Text](https://www.youtube.com/watch?v=YcApt9RgiT0)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Dealing with Text](https://www.youtube.com/watch?v=YcApt9RgiT0)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
-- **[Images and Hyperlinks](https://www.youtube.com/watch?v=CGSdK7FI9MY)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Images and Hyperlinks](https://www.youtube.com/watch?v=CGSdK7FI9MY)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
-- **[Semantic Elements](https://www.youtube.com/watch?v=dDn9uw7N9Xg)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Semantic Elements](https://www.youtube.com/watch?v=dDn9uw7N9Xg)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
 ####Organizing Data 
 
-- **[Lists](http://learn.shayhowe.com/html-css/creating-lists/)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[Lists](http://learn.shayhowe.com/html-css/creating-lists/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Read up to the point of styling the list – this is done with CSS.
 
-- **[Tables](https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/p/html-tables)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[Tables](https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/p/html-tables)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   A simple demo of structuring a table with [table HTML tags](http://www.html-5-tutorial.com/table-tag.htm).
 
-- **[A Simple Form](https://www.youtube.com/watch?v=GNuCNQDGBnk)** <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png"></img></a>  <img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[A Simple Form](https://www.youtube.com/watch?v=GNuCNQDGBnk)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>  <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   See the demo first, and then dive into [some more controls](http://learn.shayhowe.com/html-css/building-forms/) you're interested in, such as check boxes, drop-down lists etc.
 
 ####HTML Accessibility
@@ -45,7 +45,7 @@ You are not supposed to tackle this task yourself. Designers usually think it ov
   
   
 - **[Making Accessible Web Apps Using HTML5 and ChromeVox](https://www.youtube.com/watch?v=x18vEEfpK3g)** 
-<a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/ng-training-kit/blob/master/assets/tag-video.png">
+<a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png">
   
   Watch this video, but keep in mind that not all of these are a must. HTML web accessibility is a sensitive issue (and legal in some parts of the world), so just make sure you're updated with company policy from time to time.
 
