@@ -9,11 +9,11 @@ True, there is an abundance of materials online, but only some are actually help
 Enjoy! We would appreciate your [feedback](mailto:academy@wix.com).
 
 The Wix Academy staff is at your disposal:
-* [Oren Shtang](mailto:orens@wix.com), Head of Wix Academy
-* [Tomer Gabel](mailto:tomerga@wix.com), Server Master
+* [Maya Alon](mailto:mayaa@wix.com), Head of Wix Academy
 * [Danielle Kanish](mailto:daniellek@wix.com ), Academy PM
 * [Lee Baror](mailto:lee.avzuk@gmail.com), Content Developer
-* [Jonathan Israel](mailto:jonathani@wix.com), Academy Operations
+* [Jonathan Israel](mailto:jonathani@wix.com), Academy PM
+* [Tal Gonenne](mailto:talgo@wix.com), Academy Operations
 
 
 # Team Leads
