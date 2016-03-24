@@ -24,6 +24,10 @@ Follow these steps to create a Kit for a new engineer on your team:
 - [ ] Meet the new hire and customize the [content list](#Topics)
 - [ ] Remove this section
 
+# General
+
+__Important note:__ This documentation is mainly for covering basic FED (frontend developer) subjects. Once you feel confident with this material you should definitely head on to [nothig to prod](https://github.com/wix/nothing-to-prod) docs where you can learn much more on the methodologies we use at Wix.
+
 # Topics
 
 * ![](assets/time-3h.png)  [Sass & Compass](https://github.com/wix/fed-training-kit/blob/master/Content/Sass%20%26%20Compass.md)
