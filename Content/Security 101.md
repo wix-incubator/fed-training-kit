@@ -1,4 +1,4 @@
-*[![Feedback](/assets/feedback.gif) Got feedback?](https://docs.google.com/a/wix.com/forms/d/1aJHLJJsRKY_5TgHgsqh1Yrkt_EYaDkm-t8wCKNqGLMo/viewform?usp=send_form)*
+*[![Feedback](/assets/feedback.gif) Got feedback?](mailto:leeb@wix.com)*
 
 # What is a Security Vulnerability?
 A [security vulnerability](https://www.owasp.org/index.php/Category:Attack) is a system flaw or weakness in an application, that could be exploited to compromise the system data, system availability or to impersonate legitimate users of the application.
