@@ -1,4 +1,4 @@
-*[![Feedback](/assets/feedback.gif) Got feedback?](https://docs.google.com/a/wix.com/forms/d/1aJHLJJsRKY_5TgHgsqh1Yrkt_EYaDkm-t8wCKNqGLMo/viewform?usp=send_form)*
+*[![Feedback](/assets/feedback.gif) Got feedback?](mailto:leeb@wix.com)*
 
 # What is Website Architecture?
 Various topics may fall into the category of website architecture, such as information architecture or UI/UX, 
