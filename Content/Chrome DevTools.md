@@ -1,4 +1,4 @@
-*[![Feedback](/assets/feedback.gif) Got feedback?](https://docs.google.com/a/wix.com/forms/d/1aJHLJJsRKY_5TgHgsqh1Yrkt_EYaDkm-t8wCKNqGLMo/viewform?usp=send_form)*
+*[![Feedback](/assets/feedback.gif) Got feedback?](mailto:leeb@wix.com)*
 
 # What are Chrome DevTools?
 [Chrome Developer Tools](https://developer.chrome.com/devtools), bundled and available in Chrome and Safari, allow web developers and programmers deep access into the internals of the browser and their web application.
