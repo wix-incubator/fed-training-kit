@@ -25,14 +25,29 @@ JavaScript can be connected to the objects of its environment to provide program
 
   JavaScript borrows most of its syntax from Java, but is also influenced by Awk, Perl and Python. To that end, pick a link from this list based on the language you are already familiar with:
   
-- **[Basic JavaScript](http://speakingjs.com/es5/ch01.html)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
-  If you are absolutely clueless, start here :) Browse this guide for syntax you don’t already know, especially working with numbers, strings, loops, functions and arrays.
+- **[For the Totally Clueless](http://speakingjs.com/es5/ch01.html)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
+  Browse this guide for syntax you don’t already know, especially working with numbers, strings, loops, functions and arrays.
 
-- **[JavaScript for Object-Oriented Developers](https://www.youtube.com/watch?v=FGNKoHv7xPY)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
+- **[For Object-Oriented Developers](https://www.youtube.com/watch?v=FGNKoHv7xPY)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   All you need to know to get started with JS coming from Java, C#, php or other OOP languages. 
+
+- **[Just a Refresher](http://betterexplained.com/articles/the-single-page-javascript-overview/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
+  If you are somewhat familiar with JS and just need an overview or get up to date, here's a cheat-sheet you can thoroughly explore. In addition, make sure you're all set with using the [Strict Mode](http://speakingjs.com/es5/ch07.html#strict_mode).
+
+
+####Scoping and Patterns
+
+  JavaScript’s implementation of scope and context is a unique feature of the language, in part because it is so flexible. Functions can be adopted for various contexts and scope can be encapsulated and preserved. These concepts lend to some of the most powerful design patterns JavaScript has to offer. However, this is also a tremendous source of confusion amongst developers, and for good reason.
+  
+- **[Understanding Scope and Context](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
+  The difference between scope and context and how various design patterns make use of them. 
 
 - **[The *this* Keyword](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Learn how to master the *this* keyword, which confuses new and seasoned JavaScript developers alike. 
+
+- **[Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
+  Familiarize yourself with the traditional ‘Object Literal Pattern’.
+
 
 ####Functional Programming
 
