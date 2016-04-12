@@ -15,16 +15,6 @@ This kit covers a few of them.
 # Learn
 
 
-####Node.js
-
-[Node.js](https://nodejs.org/en/) is a runtime environment for server-side and networking applications on OS X, Windows, and many others.
-
-Node.js was written using the Google [V8](https://developers.google.com/v8/) JavaScript Engine. It is commonly used for web servers (has a core ‘http’ package). It contains all the code that your app needs to communicate with the server.
-
-- **[Node.js Fundamentals](https://www.youtube.com/watch?v=FVdH9YcB3Dg)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
-  A short video about what Node.js is and why so many developers use it.
-
-
 ####npm
 
 [npm](https://www.npmjs.com/) is a package manager for JavaScript, and is the default for Node.js.
