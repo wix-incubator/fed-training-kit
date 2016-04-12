@@ -5,7 +5,7 @@
 Following the growth in the frontend field in the recent years, many new tools were invented in order to allow developers to develop their software faster and better.
 This kit covers a few of them.
 
-![](/assets/clock-16.png) **This kit will take you approximately X hours**
+![](/assets/clock-16.png) **This kit will take you approximately 6 hours**
 
 <a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
@@ -14,12 +14,23 @@ This kit covers a few of them.
 
 # Learn
 
+
+####Node.js
+
+[Node.js](https://nodejs.org/en/) is a runtime environment for server-side and networking applications on OS X, Windows, and many others.
+
+Node.js was written using the Google [V8](https://developers.google.com/v8/) JavaScript Engine. It is commonly used for web servers (has a core ‘http’ package). It contains all the code that your app needs to communicate with the server.
+
+- **[Node.js Fundamentals](https://www.youtube.com/watch?v=FVdH9YcB3Dg)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
+  A short video about what Node.js is and why so many developers use it.
+
+
 ####npm
 
 [npm](https://www.npmjs.com/) is a package manager for JavaScript, and is the default for Node.js.
 
 A package manager is a collection of tools that automate the process of installing, upgrading, configuring, and removing packages, distributions of software and data in archive files. 
-Packages contain metadata and a list of dependencies necessary for the software to run properly. 
+Packages contain metadata and a list of dependencies necessary for the software to run properly, e.g. a basic package [jscore](https://www.npmjs.com/package/jscore).
 
 
 - **[Getting Started](http://www.sitepoint.com/beginners-guide-node-package-manager/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
@@ -37,13 +48,16 @@ The main difference between npm and Bower is that npm is usually used for managi
   About installing the Bower CLI and the various commands that are available for managing packages.
 
 
-####Grunt
+####Task runners - Grunt and Gulp
 [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects. When working on a JavaScript project, there are a bunch of things you'll want to do regularly – concatenate given files, run JSHint on your code, run tests, minify your scripts etc. Instead of doing all those tasks manually, Grunt can be used to do that automatically.
 Grunt is NOT a standalone build tool, it is a task runner. A task can be anything that needs to be done for the project, to turn it from a bunch of code files to something that can be distributed. Tasks are modules installed with npm.
 
 - **[Using Grunt Demo](https://www.youtube.com/watch?v=TMKj0BxzVgw)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a> <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Start with the demo and what you don't understand, figure out from [this guide](http://gruntjs.com/getting-started). [Here](http://gruntjs.com/sample-gruntfile)'s a link to a walkthrough of a sample Gruntfile.
  
+- **[Another Task Runner - Gulp](https://www.youtube.com/watch?v=LmdT2zhFmn4)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a> 
+  A short explanation of how a typical Gulp file is structured and how it differs from Grunt.
+
 
 ####Yeoman
 [Yeoman](http://yeoman.io/) helps you kickstart new projects, prescribing best practices and tools to help you stay productive. To do so, it provides a generator ecosystem. A generator is basically a plugin that can be run with the `yo` command to scaffold complete projects or useful parts.
