@@ -4,7 +4,7 @@
 
 [ECMAScript 6](http://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-overview), also known as ECMAScript 2015, is the latest version of the ECMAScript standard. ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009.
 
-![](/assets/clock-16.png) **This kit will take you approximately 5 hours**
+![](/assets/clock-16.png) **This kit will take you approximately 6 hours**
 
 <a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
@@ -23,7 +23,10 @@ Using ES6 Right now - the majority of browsers [are catching up](https://kangax.
   
 - **[ES6 Right Now - Features Review](https://www.youtube.com/watch?v=rwm5JLqCpdk#t=6m33s)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Watch this guy John Paul - a run through ES6 introduced features.
-  
+
+- **[New Features Summary](https://github.com/lukehoban/es6features#arrows)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
+  This is a good sum-up with examples.
+
   
 There's a big difference between learning new syntax, and understanding what you can do with it and its design goals. Here are a few in depth overviews of some of ES6 major features introduced in the standard. 
 Take your time with diving into one, more or all of them.
@@ -46,6 +49,10 @@ Take your time with diving into one, more or all of them.
   
 
 # Practice
+
+- [ ] **Warm-up** <a href="#"><img src="/assets/time-30m.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
+  [This online tool](http://www.es6fiddle.net/) allows you to run and play with ES6 code examples, doesn't support async-await.
+
 
 - [ ] **Write the Beer Song with ES6** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   Write a class `BeerSong` using ES6 that generates the Beer Song (i.e., “99 bottles of beer on the wall…”). You can use [Babel](https://babeljs.io/). Solution example code [here](http://gwmccull.github.io/2015/06/05/exercism-beer-song-es6/).
