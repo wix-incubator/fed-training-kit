@@ -59,7 +59,7 @@ Take your time with diving into one, more or all of them.
   
 
 - [ ] **Learn ES6 by Fixing Failing Tests** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
-  [This kata assembly](http://es6katas.org/) covers all of the topics, relatively advanced. Requires understanding of basic testing principles.
+  [This kata assembly](http://es6katas.org/) covers a vast amount of topics, and provides a structured training mechanism starting and the very basics, all the way to very advanced techniques.
   
 
 # Extras
