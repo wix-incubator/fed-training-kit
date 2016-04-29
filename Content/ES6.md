@@ -47,6 +47,9 @@ Take your time with diving into one, more or all of them.
 - **[Promises](http://www.datchley.name/es6-promises/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Explains how to create a promise and how to use it.
   
+- **[ES7 async Functions](https://jakearchibald.com/2014/es7-async-functions/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
+  With async functions, you can `await` on a promise. This halts the function in a non-blocking way, waits for the promise to resolve and returns the value. If the promise rejects, it throws with the rejection value, so you can deal with it using `catch`.
+
 
 # Practice
 
