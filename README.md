@@ -30,12 +30,12 @@ __Important note:__ This documentation is mainly for covering basic FED (fronten
 
 # Topics
 
+* ![](assets/time-1h.png)  [Lodash](https://github.com/wix/fed-training-kit/blob/master/Content/Lodash/Lodash.md)
 * ![](assets/time-3h.png)  [Sass & Compass](https://github.com/wix/fed-training-kit/blob/master/Content/Sass%20%26%20Compass.md)
 * ![](assets/time-3h.png)  [TypeScript](https://github.com/wix/fed-training-kit/blob/master/Content/TypeScript.md)
 * ![](assets/time-3h.png)  [Git and GitHub](https://github.com/wix/server-training-kit/tree/master/content/Git%20and%20GitHub)
 * ![](assets/time-3h.png)  [Chrome DevTools](https://github.com/wix/fed-training-kit/blob/master/Content/Chrome%20DevTools.md)
 * ![](assets/time-3h.png)  [TDD](https://github.com/wix/server-training-kit/blob/master/content/TDD.md) 
-* ![](assets/time-3h.png)  [Lodash](https://github.com/wix/fed-training-kit/blob/master/Content/Lodash/Lodash.md)
 * ![](assets/time-3h.png)  [jQuery](https://github.com/wix/fed-training-kit/blob/master/Content/jQuery.md)
 * ![](assets/time-5h.png)  [HTTP](https://github.com/wix/server-training-kit/blob/master/content/HTTP.md)
 * ![](assets/time-5h.png)  [ECMAScript 6](https://github.com/wix/fed-training-kit/blob/master/Content/ES6.md)
