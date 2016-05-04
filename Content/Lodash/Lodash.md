@@ -13,7 +13,7 @@ _.assign({ 'a': 1 }, { 'b': 2 }, { 'c': 3 });
 // → { 'a': 1, 'b': 2, 'c': 3 }
 ```
 
-![](/assets/clock-16.png) **This kit will take you approximately 1.5 hours**
+![](/assets/clock-16.png) **This kit will take you approximately 2 hours**
 
 <a href="#learn"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
 <a href="#practice"><img src="https://github.com/wix/server-training-kit/blob/master/assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
@@ -38,11 +38,15 @@ _.assign({ 'a': 1 }, { 'b': 2 }, { 'c': 3 });
 # Practice
 
 
-- [ ] **Step 1 - Install** <a href="#"><img src="/assets/time-5m.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
+- [ ] **Step 1 - Play (Online)** <a href="#"><img src="/assets/time-30m.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
+  Play with [this codepen](http://codepen.io/andreic/pen/xpLBz) lodash playground.
+
+
+- [ ] **Step 2 - Install** <a href="#"><img src="/assets/time-5m.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   Make sure Lodash is installed by following these [guidelines](https://lodash.com/#installation).
 
   
-- [ ] **Step 2 - Workout** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
+- [ ] **Step 3 - Workout** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
   Run through [this codepen](http://codepen.io/katyjustiss/pen/RPrYYO) lodash exercise.
   
 
@@ -55,6 +59,11 @@ _.assign({ 'a': 1 }, { 'b': 2 }, { 'c': 3 });
 
 - **[Cheat Sheet](http://delapouite.com/ramblings/lodash-difference-between-extend-assign-merge-defaults.html)**   
   The difference between extend/assign, merge and defaults functions.
+
+
+- **[Lodash Collection](http://ricostacruz.com/cheatsheets/lodash.html)**   
+  A nice, more comprehensive cheat sheet.
+
 
 - **[The Lodash Cookbook](https://leanpub.com/lodashcookbook/read)**   
   A structured e-book - check out the [recipes](https://leanpub.com/lodashcookbook/read#leanpub-auto-recipes) section for solving commom problems with Lodash.
