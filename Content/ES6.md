@@ -75,6 +75,10 @@ Take your time with diving into one, more or all of them.
 
 # Extras
 
+
+- **[Fiddle with ES6](http://www.es6fiddle.net/)**    
+  An online fiddler with code examples.
+
 - **[ES6 Learning Repo](https://github.com/ericdouglas/ES6-Learning)**    
   An impressive amount of materials to learn ES6 features the way you prefer (reading materials/courses/talks/podcasts etc.).
 
