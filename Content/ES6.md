@@ -24,13 +24,21 @@ Using ES6 Right now - the majority of browsers [are catching up](https://kangax.
 - **[ES6 Right Now - Features Review](https://www.youtube.com/watch?v=rwm5JLqCpdk#t=6m33s)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Watch this guy John Paul - a run through ES6 introduced features.
 
-- **[New Features Summary](https://github.com/lukehoban/es6features#arrows)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
+- **[New Features Summary](https://github.com/lukehoban/es6features)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   This is a good sum-up with examples.
 
   
 There's a big difference between learning new syntax, and understanding what you can do with it and its design goals. Here are a few in depth overviews of some of ES6 major features introduced in the standard. 
 Take your time with diving into one, more or all of them.
 
+- **[let & const](https://www.youtube.com/watch?v=1sHq04erG9o)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
+  Explains why these very basic ES6 keywords allow us to better scope variables compared to ES5's `var`.
+
+- **[Symbols](https://www.youtube.com/watch?v=ku_s_Aw_ms4)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
+  Introduces the new type, and the nuances that make it unique from the other JS types.
+
+- **[Rest & Spread](https://www.youtube.com/watch?v=8U3ZTCtZy5Q)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
+  Demonstrates how these solve the hacks we once used to do to compensate for lack of functionality.
 
 - **[Arrow Functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   The variations of arrow function syntax and in what arrow functions differ from regular JS functions.
