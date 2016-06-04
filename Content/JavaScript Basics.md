@@ -23,7 +23,7 @@ JavaScript can be connected to the objects of its environment to provide program
 
 ####Syntax
 
-  JavaScript borrows most of its syntax from Java, but is also influenced by Awk, Perl and Python. To that end, pick a link from this list based on the language you are already familiar with:
+  JavaScript borrows most of its syntax from Java, but is also influenced by Awk, Perl and Python. To that end, pick the most relevant link for you from this list, based on the language you are already familiar with:
   
 - **[For the Totally Clueless](http://speakingjs.com/es5/ch01.html)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Browse this guide for syntax you don’t already know, especially working with numbers, strings, loops, functions and arrays.
@@ -63,15 +63,6 @@ that treats computation as the evaluation of functions and avoids changing-state
 - **[Intro to Functional Programming](http://www.srirangan.net/2011-12-functional-programming-in-javascript)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Hoisting, higher-order functions and closures.
 
-####The Object-Oriented Basics
-
-A few links to demonstrate how to implement object-oriented concepts in JavaScript. 
-
-- **[Classes](https://www.youtube.com/watch?v=coIsvOMYEi0)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
-
-- **[Prototypes](https://www.youtube.com/watch?v=EBoUT2eBlT4)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
-
-- **[Inheritance](https://www.youtube.com/watch?v=pu08qQCmw8I)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
 ####Data Interchange with JSON
 
