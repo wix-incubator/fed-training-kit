@@ -18,7 +18,7 @@
   
 ###Compatibility
 
-Using ES6 Right now - the majority of browsers [are catching up](https://kangax.github.io/compat-table/es6/) on implementing new ES6 features but not one has full support. Using transpilers in the last couple of years has become the norm. [Babel](https://babeljs.io/) is an ES6 to ES5 transpiler that supports all of the ES6 features.
+The majority of browsers [are catching up](https://kangax.github.io/compat-table/es6/) on implementing new ES6 features but not one has full support. Using transpilers in the last couple of years has become the norm. [Babel](https://babeljs.io/) is an ES6 to ES5 transpiler that supports all of the ES6 features.
 
 ###ES6 Features
 
