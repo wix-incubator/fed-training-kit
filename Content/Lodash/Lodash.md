@@ -26,13 +26,13 @@ _.assign({ 'a': 1 }, { 'b': 2 }, { 'c': 3 });
 - **[Intro to Lodash](https://egghead.io/lessons/core-javascript-introduction-to-lodash)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Watch this short capabilities demonstration by egghead.
   
-  Once you are done, you may ask yourself this - if all of Lodash’s methods can be (and have been) implemented in plain JavaScript, why use it?
-  Imagine implementing the methods you've seen in this video in plain JS, and match how fast the video demostration was - Lodash is more readable, expressive, functional, convenient and robust. 
+Once you are done, you may ask yourself this - if all of Lodash’s methods can be (and have been) implemented in plain JavaScript, why use it?
+Imagine implementing the methods you've seen in this video in plain JS, and match how fast the video demostration was - Lodash is more readable, expressive, functional, convenient and robust. 
 
 
 - **[API Documentation](https://lodash.com/docs)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   Browse [this lecture](https://github.com/wix/fed-training-kit/blob/master/Content/Lodash/Lodash%20draft%201.pptx) to get the gist.
-  [Here](https://www.youtube.com/watch?v=kdfikit351Y#t=1m)'s a nice intro for the API segments and exmaples.
+  [Here](https://www.youtube.com/watch?v=kdfikit351Y#t=1m)'s a nice intro for the API segments and exmaples. Notice that functions are generally categorized according to their input args: collections and arrays.
 
 
 # Practice
