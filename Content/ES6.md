@@ -16,9 +16,6 @@
   With every new spec release from ECMA, code developing becomes a little easier. 
   Things that we are now used to (such as regular expressions and `tryCatch`) have been released in previous ECMAScript versions. 
   
-###Compatibility
-
-The majority of browsers [are catching up](https://kangax.github.io/compat-table/es6/) on implementing new ES6 features but not one has full support. Using transpilers in the last couple of years has become the norm. [Babel](https://babeljs.io/) is an ES6 to ES5 transpiler that supports all of the ES6 features.
 
 ###ES6 Features
 
@@ -66,6 +63,16 @@ Take your time with diving into one, more or all of them.
 
 - **[Solving the 'this' problem with arrow functions and bind](https://derickbailey.com/2015/09/28/do-es6-arrow-functions-really-solve-this-in-javascript/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   There are a few downsides to using arrow functions in some circumstances, the `this` issue is one of them. Read this post to see when to use arrow functions and when to use `bind`.
+
+
+###Compatibility
+
+The majority of browsers [are catching up](https://kangax.github.io/compat-table/es6/) on implementing new ES6 features but not one has full support. Using transpilers in the last couple of years has become the norm. 
+
+[Babel](https://babeljs.io/) is an ES6 to ES5 transpiler that supports all of the ES6 features so you can use it in the browser today. We use it in various projects in Wix, so get familiar with it.
+
+- **[Why Babel Matters](http://codemix.com/blog/why-babel-matters)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
+  Explains why Babel is different from other compile-to-JS systems and why it is sure to become an addition to every web developer's toolkit.
 
 
 # Practice
