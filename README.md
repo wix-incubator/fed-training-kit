@@ -38,6 +38,7 @@ Every topic has 3 sections:
 * ![](assets/time-1d.png)  [JavaScript Basics](https://github.com/wix/fed-training-kit/blob/master/Content/JavaScript%20Basics.md)
 * ![](assets/time-1d.png)  [Website Architecture Basics](https://github.com/wix/fed-training-kit/blob/master/Content/Website%20Architecture%20Basics.md)
 * ![](assets/time-1d.png)  [Client Server Communications](https://github.com/wix/fed-training-kit/blob/master/Content/Client%20Server%20Communications.md)
+* ![](assets/time-1d.png)  [React](https://github.com/wix/fed-training-kit/blob/master/Content/React.md)
 
 
 ### Contributions
