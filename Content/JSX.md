@@ -12,9 +12,9 @@ There must be an easier, more readable way to do this. The easier way is using J
 ![](../assets/clock-16.png) **This kit will take you approximately 3 hours**
 
 
-<a href="#learn"><img src="assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
-<a href="#practice"><img src="assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
-<a href="#extras"><img src="assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
+<a href="#learn"><img src="../assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
+<a href="#practice"><img src="../assets/btn-practice.png" alt="Practice" height="48" width="140"></img></a>
+<a href="#extras"><img src="../assets/btn-extras.png" alt="Extras" height="48" width="140"></img></a>
 
 
 # Learn
