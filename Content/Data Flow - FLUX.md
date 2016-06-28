@@ -6,7 +6,7 @@
 By the end of this kit you'll be able to implement Flux data flow in your React app.
 
 
-![](assets/clock-16.png) **This kit will take you approximately 5 hours**
+![](../asstes/clock-16.png) **This kit will take you approximately 5 hours**
 
 
 <a href="#learn"><img src="assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
@@ -19,7 +19,7 @@ By the end of this kit you'll be able to implement Flux data flow in your React 
 React Implements a Unidirectional Data Flow Called Flux.
 There are many ways to implement Flux, as long as they are unidirectional and implement the following, they're fine.
 
-![](assets/tag-video.png) ![](assets/time-30m.png)
+![](../asstes/tag-video.png) ![](../asstes/time-30m.png)
 [Intro to Flux](https://www.youtube.com/watch?v=nYkdrAPrdcw#t=10m10s) - Watch Jing Chen's part (till minute 24).
 
 
@@ -57,17 +57,17 @@ To implement Flux follow these 4 categories:
   - When it receives a change event from the store, it requests the new data and passes and calls its own setState() method, causing its render() and all its descendants’ render() to run.
 
 
-![](assets/tag-video.png) ![](assets/time-30m.png)
+![](../asstes/tag-video.png) ![](../asstes/time-30m.png)
 [Fetching data for React applications](https://www.youtube.com/watch?v=9sc8Pyc51uU).
 
 
-![](assets/tag-read.png) ![](assets/time-1h.png)
+![](../asstes/tag-read.png) ![](../asstes/time-1h.png)
 [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux).
 
 
 # Practice
 
-**TODO List** ![](assets/time-3h.png) ![](assets/tag-handson.png)
+**TODO List** ![](../asstes/time-3h.png) ![](../asstes/tag-handson.png)
 
 Complete the [Flux Tutorial](https://facebook.github.io/flux/docs/todo-list.html#content) and build your first TODO App using React and Flux.
 
