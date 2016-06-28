@@ -7,7 +7,7 @@ By the end of this kit you'll be able to...
 - Use ref and lifecycle methods to access components in the DOM.
 - Use keys for controlling the reconciliation order.
 
-![](../asstes/clock-16.png) **This kit will take you approximately 3 hours**
+![](../assets/clock-16.png) **This kit will take you approximately 3 hours**
 
 
 <a href="#learn"><img src="assets/btn-learn.png" alt="Learn" height="48" width="140"></img></a>
@@ -30,7 +30,7 @@ Unmounted happens when you explicitly callReact.unmountAndReleaseReactRootNode()
 
 React has special methods for accessing specific points in the [lifecycle](https://pbs.twimg.com/media/B-G3_T8CcAAmTHV.jpg:large):
 
-![](../asstes/tag-video.png) ![](../asstes/time-30m.png)
+![](../assets/tag-video.png) ![](../assets/time-30m.png)
 [React Lifecycle Methods](https://vimeo.com/channels/797633/103917886) - View lessons 9 to 11.
 
 
@@ -52,7 +52,7 @@ To reference a node, follow these steps:
 You can also access the component's DOM node directly by calling:
 `React.findDOMNode(this.refs.myInput)`
 
-![](../asstes/tag-read.png) ![](../asstes/time-30m.png)
+![](../assets/tag-read.png) ![](../assets/time-30m.png)
 [Refs and findDOMNode](https://facebook.github.io/react/docs/more-about-refs.html).
 
 
@@ -73,16 +73,16 @@ renderB: <div><span key="second">second</span><span key="first">first</span></di
 ```
 
 
-![](../asstes/tag-read.png) ![](../asstes/time-1h.png)
+![](../assets/tag-read.png) ![](../assets/time-1h.png)
 [React (Virtual ) DOM Terminologies](https://facebook.github.io/react/docs/glossary.html).
 
-![](../asstes/tag-read.png) ![](../asstes/time-30m.png)
+![](../assets/tag-read.png) ![](../assets/time-30m.png)
 [Why the keys are important](http://blog.arkency.com/2014/10/react-dot-js-and-dynamic-children-why-the-keys-are-important/).
 
 
 # Practice
 
-**Interacting with the DOM** ![](../asstes/time-1h.png) ![](../asstes/tag-handson.png)
+**Interacting with the DOM** ![](../assets/time-1h.png) ![](../assets/tag-handson.png)
 
 Do [exercises 1-3](http://jamesknelson.com/react-js-by-example-interacting-with-the-dom/) yourself.
 
