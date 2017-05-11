@@ -6,12 +6,12 @@ This kit is an assembly of online training references for the purpose of self-le
 
 Enjoy! 
 
-###Usage
+### Usage
 
 This kit is comprised from topics relevant for FEDs (frontend developers).
 You don't have to run through everything, feel free to skip and skim as you like.
 
-###Topic structure
+### Topic structure
 
 Every topic has 3 sections:
 - **Learn** - links to videos and readings to learn the topic, organized from beginner to advanced.
