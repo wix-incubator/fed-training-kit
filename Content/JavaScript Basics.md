@@ -70,11 +70,13 @@ that treats computation as the evaluation of functions and avoids changing-state
 
 As a simple example, information about me might be written in JSON as follows:
 
-```var jason = {
+```
+var jason = {
   "age" : "24",
   "hometown" : "Missoula, MT",
   "gender" : "male"
-};```
+};
+```
 
 This creates an object that we access using the variable `jason`. 
 Inside the object, we can declare any number of properties using a `"name": "value"` pairing, separated by commas. 
