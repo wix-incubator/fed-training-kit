@@ -17,7 +17,7 @@
   Things that we are now used to (such as regular expressions and `tryCatch`) have been released in previous ECMAScript versions. 
   
 
-###ES6 Features
+### ES6 Features
 
 New features help with shortening some work-arounds. They improve readability. They also include things from other languages that were lacking in JS. 
   
@@ -27,7 +27,7 @@ New features help with shortening some work-arounds. They improve readability. T
 - **[New Features Summary](https://github.com/lukehoban/es6features)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-1h.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   This is a good sum-up with examples.
 
-###Design Goals - the Big "Why"s
+### Design Goals - the Big "Why"s
 
 There's a big difference between learning new syntax, and understanding what you can do with it and its design goals. Here are a few in depth overviews of some of ES6 major features introduced in the standard. 
 Take your time with diving into one, more or all of them.
@@ -59,7 +59,7 @@ Take your time with diving into one, more or all of them.
 - **[ES7 async Functions](https://jakearchibald.com/2014/es7-async-functions/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   With async functions, you can `await` on a promise. This halts the function in a non-blocking way, waits for the promise to resolve and returns the value. If the promise rejects, it throws with the rejection value, so you can deal with it using `catch`.
 
-###Beware Pitfalls
+### Beware Pitfalls
 
 - **[Solving the 'this' problem with arrow functions and bind](https://derickbailey.com/2015/09/28/do-es6-arrow-functions-really-solve-this-in-javascript/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   There are a few downsides to using arrow functions in some circumstances, the `this` issue is one of them. Read this post to see when to use arrow functions and when to use `bind`.
