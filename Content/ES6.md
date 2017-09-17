@@ -65,7 +65,7 @@ Take your time with diving into one, more or all of them.
   There are a few downsides to using arrow functions in some circumstances, the `this` issue is one of them. Read this post to see when to use arrow functions and when to use `bind`.
 
 
-###Compatibility
+### Compatibility
 
 The majority of browsers [are catching up](https://kangax.github.io/compat-table/es6/) on implementing new ES6 features but not one has full support. Using transpilers in the last couple of years has become the norm. 
 
