@@ -86,7 +86,7 @@ The majority of browsers [are catching up](https://kangax.github.io/compat-table
   
 
 - [ ] **Learn ES6 by Fixing Failing Tests** <a href="#"><img src="/assets/time-1h.png"></img></a> <a href="#"><img src="/assets/tag-handson.png"></img></a>     
-  [This kata assembly](http://es6katas.org/) covers a vast amount of topics, and provides a succinct yet well-structured training program starting at the basics, moving to advanced technices as you go along. Contains a total of 79 testing workshops (currently).
+  [This kata assembly](http://es6katas.org/) covers a vast amount of topics, and provides a succinct yet well-structured training program starting at the basics, moving to advanced techniques as you go along. Contains a total of 79 testing workshops (currently).
   
 
 # Extras
