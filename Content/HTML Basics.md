@@ -13,7 +13,7 @@
 
 # Learn
 
-####HTML Markup 
+#### HTML Markup 
 - **[HTML Tags, Elements, and Attributes](https://www.youtube.com/watch?v=9gTw2EDkaDQ)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
 - **[Dealing with Text](https://www.youtube.com/watch?v=YcApt9RgiT0)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
@@ -33,7 +33,7 @@
 - **[A Simple Form](https://www.youtube.com/watch?v=GNuCNQDGBnk)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>  <img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   See the demo first, and then dive into [some more controls](http://learn.shayhowe.com/html-css/building-forms/) you're interested in, such as check boxes, drop-down lists etc.
 
-####HTML Accessibility
+#### HTML Accessibility
 
 Accessibility is comprised of two parts:
   
