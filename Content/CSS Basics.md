@@ -17,7 +17,7 @@ the language can be applied to any XML document, including plain XML, SVG and XU
 
 # Learn
 
-####Targeting Elements and Styling
+#### Targeting Elements and Styling
 
 - **[CSS Layout Demo](https://www.youtube.com/watch?v=0afZj1G0BIE)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
   A demonstration of what you can do with a CSS layout. This is a 12 minute video, but we don't have a 12 minute label :)
@@ -39,7 +39,7 @@ For instance, `*.warning` and `.warning` are considered equal.
   Covers table borders, table striping and aligning text.
 
 
-####Positioning
+#### Positioning
 
 Before we get into layouts in detail, we'll see 3 videos to understand what we'll be dealing with.
 
