@@ -22,7 +22,7 @@
 
 - **[Semantic Elements](https://www.youtube.com/watch?v=dDn9uw7N9Xg)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-5m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-video.png"></img></a>   
 
-####Organizing Data 
+#### Organizing Data 
 
 - **[Lists](http://learn.shayhowe.com/html-css/creating-lists/)** <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/time-30m.png"></img></a> <a href="#"><img src="https://github.com/wix/fed-training-kit/blob/master/assets/tag-read.png"></img></a>   
   Read up to the point of styling the list – this is done with CSS.
@@ -81,6 +81,3 @@ You are not supposed to tackle this task yourself. Designers usually think it ov
   - [HTML Codes](http://www.quackit.com/html/codes/)
   - [HTML Table Generator](http://www.quackit.com/html/html_table_generator.cfm)
   - [HTML Text Generator](http://www.quackit.com/html/html_generators/html_text_generator.cfm)
-
-
-
