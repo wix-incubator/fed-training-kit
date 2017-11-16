@@ -11,12 +11,16 @@ Enjoy!
 This kit is comprised from topics relevant for FEDs (frontend developers).
 You don't have to run through everything, feel free to skip and skim as you like.
 
+### Learning resources
+
+If you need info on how to access premium resources linked from learning material, check pinned messages in #feds channel on Slack, or contact [academy@wix.com](mailto:academy@wix.com). 
+
 ### Topic structure
 
 Every topic has 3 sections:
 - **Learn** - links to videos and readings to learn the topic, organized from beginner to advanced.
 - **Practice** - links to installation instructions and workouts, organized step-by-step.
-- **Extras** - links to more advanced tutorials, cheet sheats, online fiddlers etc.
+- **Extras** - links to more advanced tutorials, cheat sheets, online fiddlers etc.
 
 ### TOC
 
@@ -48,7 +52,7 @@ Feel free to [report broken links](mailto:academy@wix.com) and add good bookmark
 
 ### Next steps
 
-Once you feel confident with this material you should definitely head on to [nothig to prod](https://github.com/wix/nothing-to-prod) docs where you can learn much more on the methodologies we use at Wix.
+Once you feel confident with this material you should definitely head on to [nothing to prod](https://github.com/wix/nothing-to-prod) docs where you can learn much more on the methodologies we use at Wix.
 
 
 ### Team Leads
