@@ -77,7 +77,7 @@ You are not supposed to tackle this task yourself. Designers usually think it ov
 
 - **Quick References**    
   - [HTML Tags](http://www.w3schools.com/tags/) 
-  - [HTML5 Tags] (http://www.w3schools.com/html/html5_new_elements.asp) 
+  - [HTML5 Tags](http://www.w3schools.com/html/html5_new_elements.asp) 
   - [HTML Codes](http://www.quackit.com/html/codes/)
   - [HTML Table Generator](http://www.quackit.com/html/html_table_generator.cfm)
   - [HTML Text Generator](http://www.quackit.com/html/html_generators/html_text_generator.cfm)
