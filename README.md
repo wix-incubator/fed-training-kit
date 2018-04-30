@@ -19,7 +19,7 @@ You will need to install the following:
 
 ## Topics to cover
 
-1. HTML
+1. [HTML](./src/html/index.md)
 1. CSS Basics
 1. JavaScript Basic
 1. Advanced JavaScript 
