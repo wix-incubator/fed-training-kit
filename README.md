@@ -37,6 +37,9 @@ You will need to install the following:
 1. TDD
 1. Chrome Dev Tools
 
+## What's next?
+You are done with basics of FED world. Now, time to discover [fed-handbook](https://github.com/wix-private/fed-handbook) of Wix.
+
 ## Missing something?
 You feel like missing something or found an awesome talk/tutorial that you believe everyone should read - [contribute](./CONTRIBUTING.md)!
 
