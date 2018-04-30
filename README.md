@@ -10,14 +10,14 @@ Each topic contains the exercise or a small project that you have to implement a
 If you feel lost on your path, you can take a look at the [FED roadmap](./assets/frontend-roadmap.png), track your progress and see the big picture.
 
 ## Before we start
-Install the following:
+You will need to install the following:
 
 1. [Google Chrome Browser](https://www.google.com/chrome/)
 1. [Node LTS version](https://nodejs.org/en/)
 1. [VSCode](https://code.visualstudio.com/)
 1. [iTerm2](https://www.iterm2.com/)
 
-## Topics
+## Topics to cover
 
 1. HTML
 1. CSS Basics
@@ -26,6 +26,7 @@ Install the following:
 1. Advanced CSS
 1. Testing JavaScript 
 1. Node Basics
+1. HTTP
 1. Client-Server Communication
 1. Git & Github
 1. Tooling
@@ -36,6 +37,8 @@ Install the following:
 1. TDD
 1. Chrome Dev Tools
 
+## Missing something?
+You feel like missing something or found an awesome talk/tutorial that you believe everyone should read - [contribute](./CONTRIBUTING.md)!
 
 ---
 Made with  &#128150; by [FED Guild](mailto:feds@wix.com)
