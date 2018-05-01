@@ -19,11 +19,11 @@ You will need to install the following:
 
 ## Topics to cover
 
-1. [HTML](./src/html/index.md)
-1. CSS Basics
+1. [HTML](/src/html/index.md)
+1. [CSS Basics](/src/css/index.md)
 1. JavaScript Basic
 1. Advanced JavaScript 
-1. Advanced CSS
+1. Advanced CSS and SASS/SCSS
 1. Testing JavaScript 
 1. Node Basics
 1. HTTP

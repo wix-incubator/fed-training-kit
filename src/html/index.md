@@ -29,7 +29,6 @@
 Build clickable gallery of images.
 
 ## Resources
-* [Avoid W3Schools](https://meta.stackoverflow.com/questions/280478/why-not-w3schools-com)
 * [HTML Dog Tutorials](http://htmldog.com/guides/html/)
 * [HTML MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [HTML5 Tutorial](https://www.html-5-tutorial.com/)
