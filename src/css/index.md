@@ -2,7 +2,8 @@
 
 ## Goals
 1. Learn basic css selectors
-1. Understand selectors specificity
+1. Understand selectors specificity and cascading
+1. Get familiar with different measure units
 1. Understand principals of `box model`
 1. Understand differences between `position`s
 1. Learn principles of layout
