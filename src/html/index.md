@@ -1,4 +1,5 @@
 # HTML
+Let's start from the basics. HTML. No matter how complex your future web-app is, it all boils down to good, old markup.
 
 ## Goals
 1. Get familiar with HTML basic tags and HTML5 tags

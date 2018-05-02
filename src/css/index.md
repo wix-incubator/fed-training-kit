@@ -1,4 +1,5 @@
 # CSS Basics
+In this part you will learn how to make your HTML pretty. Give it some structure and colors.
 
 ## Goals
 1. Learn basic css selectors
