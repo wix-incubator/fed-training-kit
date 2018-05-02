@@ -41,10 +41,10 @@ It's important to understand that JS runs on various environments, and while it 
     1. Event listeners
 
 ## Exercise
+1. Implement `Roman Time` exercise
 1. Reach Kyo 4 in Codewars
 
 ## Resources
 * [You Don't Know JS Book Series](https://github.com/getify/You-Dont-Know-JS)
 * [JS Tutorials](https://github.com/workshopper/javascripting)
-* [JS Wat Talk](archive.org/details/wat_destroyallsoftware)
 * [Secrets of the JavaScript Ninja Book](manning.com/books/secrets-of-the-javascript-ninja)
