@@ -19,7 +19,7 @@ You will need to install the following:
 
 ## Topics to cover
 
-1. Git & Github
+1. [Git & Github](/src/git/index.md)
 1. [HTML](/src/html/index.md)
 1. [CSS Basics](/src/css/index.md)
 1. [JavaScript Basic](/src/javascript/index.md)
