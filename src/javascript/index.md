@@ -28,6 +28,10 @@ It's important to understand that JS runs on various environments, and while it 
     1. Closures
 1. What is `this`?
 1. Prototypical Inheritance
+1. Object construction
+    1. `Object.create`
+    1. Factory
+    1. `Class`
 1. Async code
     1. Event loop
     1. Timers

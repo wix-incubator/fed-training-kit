@@ -19,17 +19,17 @@ You will need to install the following:
 
 ## Topics to cover
 
+1. Git & Github
 1. [HTML](/src/html/index.md)
 1. [CSS Basics](/src/css/index.md)
 1. [JavaScript Basic](/src/javascript/index.md)
 1. [[Advanced JavaScript]](/src/advanced-js/index.md)
 1. [[Advanced CSS and SASS/SCSS]](/src/advanced-css-sass/index.md)
 1. Testing JavaScript 
-1. Node Basics
+1. Tooling
 1. HTTP
 1. Client-Server Communication
-1. Git & Github
-1. Tooling
+1. Node Basics
 1. TypeScript
 1. React Basics
 1. Advanced React
@@ -38,7 +38,9 @@ You will need to install the following:
 1. Chrome Dev Tools
 
 ## What's next?
-You are done with basics of FED world. Now, time to discover [fed-handbook](https://github.com/wix-private/fed-handbook) of Wix.
+You are done with basics of FED world. 
+1. Tell us how it was. Please fill this [feedback form](https://goo.gl/forms/3RrN7JZ9pqSv9W9u1).
+2. Now, time to discover [fed-handbook](https://github.com/wix-private/fed-handbook) of Wix.
 
 ## Missing something?
 You feel like missing something or found an awesome talk/tutorial that you believe everyone should read - [contribute](./CONTRIBUTING.md)!
