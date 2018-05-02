@@ -7,6 +7,8 @@
 1. Understand principals of `box model`
 1. Understand differences between `position`s
 1. Learn principles of layout
+    1. `Flexbox`
+    2. `CSS Grid`
 
 ## Exercise
 1. Implement the following layout without flexbox.
