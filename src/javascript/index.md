@@ -41,7 +41,7 @@ It's important to understand that JS runs on various environments, and while it 
     1. Event listeners
 
 ## Exercise
-1. Implement `Roman Time` exercise
+1. Implement [`Roman Time`](/src/javascript/roman-time/roman-time.js) exercise
 1. Reach Kyo 4 in Codewars
 
 ## Resources
