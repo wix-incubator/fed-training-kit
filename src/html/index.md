@@ -27,7 +27,7 @@ Let's start from the basics. HTML. No matter how complex your future web-app is,
 1. HTML Accessibility
 
 ## Exercise
-Build clickable gallery of images.
+Implement [Athens Ruins image gallery](/src/html/ruins-gallery/index.html) and review with your mentor.
 
 ## Resources
 * [HTML Dog Tutorials](http://htmldog.com/guides/html/)
