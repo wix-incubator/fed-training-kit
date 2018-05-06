@@ -5,7 +5,7 @@
 ## How to use
 Go over the list of topics one-by-one. Most topics have a list of recommended resources to read or watch on your own. We encourage you to search for more. Google is your best friend. 
 
-Each topic contains the exercise or a small project that you have to implement and review with your mentor.
+Each topic contains the exercise or a small project that you have to implement and review with your mentor. Topics that are shown in `[]` are optional but very much recommended. This list does *not* contain any redundant topics.
 
 If you feel lost on your path, you can take a look at the [FED roadmap](./assets/frontend-roadmap.png), track your progress and see the big picture.
 
