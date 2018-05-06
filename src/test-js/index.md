@@ -3,6 +3,10 @@
 Testing is very important part of software development process. Tests serve several purposes. Firstly, they check that your code actually does what it is supposed to. Secondly, they act as a safety-net for refactoring big project and allow better code quality and less manual QA. As a bonus, testable code is usually structured and written better than non-tested code.
 Automated testing frees us from the need of manually testing our code each time, a task that becomes virtually impossible as the code-base grows.  
 
+## Goals
+1. Get familiar with variety of client-side testing
+1. Practice with tools of writing JS test
+
 ## Topics
 
 1. Unit tests
