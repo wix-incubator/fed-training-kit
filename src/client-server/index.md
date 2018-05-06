@@ -30,7 +30,7 @@ In this part you will learn different aspect of communication between client and
 1. [HTTP2]
 
 ## Exercise
-1. Implement checkout cart application
+1. Implement [checkout cart](/src/client-server/checkout-card) application.
 
 ## Resources
 * [High Performance Browser Networking](http://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763)
