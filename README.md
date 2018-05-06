@@ -30,9 +30,7 @@ You will need to install the following:
 1. Node Basics
 1. [Client-Server Communication](/src/client-server/index.md)
 1. TypeScript
-1. React Basics
-1. Advanced React
-1. Angular Basics
+1. [React](/src/react/index.md)
 1. TDD
 1. Chrome Dev Tools
 
