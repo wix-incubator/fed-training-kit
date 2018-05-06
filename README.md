@@ -25,7 +25,7 @@ You will need to install the following:
 1. [JavaScript Basic](/src/javascript/index.md)
 1. [[Advanced JavaScript]](/src/advanced-js/index.md)
 1. [[Advanced CSS and SASS/SCSS]](/src/advanced-css-sass/index.md)
-1. Testing JavaScript 
+1. [Testing JavaScript](/src/test-js/index.md)
 1. Tooling
 1. Node Basics
 1. [Client-Server Communication](/src/client-server/index.md)
