@@ -27,7 +27,7 @@ You will need to install the following:
 1. [[Advanced CSS and SASS/SCSS]](/src/advanced-css-sass/index.md)
 1. [Testing JavaScript](/src/test-js/index.md)
 1. [Tooling](/src/tools/index.md)
-1. Node Basics
+1. [Node Basics](/src/node/index.md)
 1. [Client-Server Communication](/src/client-server/index.md)
 1. [React](/src/react/index.md)
 1. TDD
