@@ -35,7 +35,7 @@ JavaScript can be connected to the objects of its environment to provide program
   If you are somewhat familiar with JS and just need an overview or get up to date, here's a cheat-sheet you can thoroughly explore. In addition, make sure you're all set with using the [Strict Mode](http://speakingjs.com/es5/ch07.html#strict_mode).
 
 
-####Scoping and Patterns
+#### Scoping and Patterns
 
   JavaScript’s implementation of scope and context is a unique feature of the language, in part because it is so flexible. Functions can be adopted for various contexts and scope can be encapsulated and preserved. These concepts lend to some of the most powerful design patterns JavaScript has to offer. However, this is also a tremendous source of confusion amongst developers, and for good reason.
   
@@ -49,7 +49,7 @@ JavaScript can be connected to the objects of its environment to provide program
   Familiarize yourself with the traditional ‘Object Literal Pattern’.
 
 
-####Functional Programming
+#### Functional Programming
 
 Functional programming is a programming paradigm - a style of building the structure and elements of computer programs - 
 that treats computation as the evaluation of functions and avoids changing-state and mutable data. 
@@ -64,7 +64,7 @@ that treats computation as the evaluation of functions and avoids changing-state
   Hoisting, higher-order functions and closures.
 
 
-####Data Interchange with JSON
+#### Data Interchange with JSON
 
 [JSON](http://json.org/) (JavaScript Object Notation) is a lightweight format for creating and sending data objects. JSON is a part of JavaScript and not a separate entity, the notation syntax is built into the raw Javascript programming language.
 
