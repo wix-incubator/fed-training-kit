@@ -21,7 +21,7 @@ JavaScript can be connected to the objects of its environment to provide program
 
 # Learn
 
-####Syntax
+#### Syntax
 
   JavaScript borrows most of its syntax from Java, but is also influenced by Awk, Perl and Python. To that end, pick the most relevant link for you from this list, based on the language you are already familiar with:
   
