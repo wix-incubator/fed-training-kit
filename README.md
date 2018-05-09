@@ -30,8 +30,7 @@ You will need to install the following:
 1. [Node Basics](/src/node/index.md)
 1. [Client-Server Communication](/src/client-server/index.md)
 1. [React](/src/react/index.md)
-1. TDD
-1. Chrome Dev Tools
+1. [TDD](/src/tdd/index.md)
 
 ## What's next?
 You are done with basics of FED world. 
