@@ -17,7 +17,7 @@ console.log(b);
 typeof([]);
 ```
 
-### 2. Functions
+### 2. Functions and `this`
 
 1. What's the difference between `var` and `let`? Provide an example.
 2. What's the result of following invocations?
@@ -80,3 +80,48 @@ test();
 
 5. Provide code example of closure.
 6. Fix the [alert index exercise](https://jsbin.com/gamupeboha/1/edit?html).
+
+### 3. Objects and Inheritance
+
+1. Draw the inheritance diagram of the following. Explain the result of `console.log` statement.
+
+```js
+let obj1 = { a: 1 };
+let obj2 = Object.create(obj1);
+console.log(obj2.a) // 1
+```
+
+2. Draw the inheritance diagram of the following code.
+
+```js
+class A {
+    sayA() {
+        console.log('A');
+    }
+}
+class B extends A {
+    sayB() {
+        console.log('B');
+    }
+}
+const a = new A();
+const b = new B();
+```
+
+### 4. Async
+
+1. Explain how event loop works.
+2. Fix the following [problem](http://jsbin.com/tobipi/latest/edit?html,js,console,output).
+3. What's the callback hell?
+4. Implement the following using callbacks and promises.
+
+```js
+function verifyBeforeRender(successCallback) {
+  // make 2 ajax calls at the same time
+  // when both of them return result, make a 3rd ajax call
+  // if the result if 3rd ajax request was successful, call a `successCallback`
+}
+```
+
+### 5. DOM API
+1. TBD
