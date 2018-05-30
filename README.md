@@ -19,17 +19,17 @@ You will need to install the following:
 
 ## Topics to cover
 
-1. [Git & Github](/src/git/readme.md)
-1. [HTML](/src/html/readme.md)
-1. [CSS Basics](/src/css/readme.md)
-1. [JavaScript Basic](/src/javascript/readme.md)
-1. [[Advanced JavaScript]](/src/advanced-js/readme.md)
-1. [Testing JavaScript](/src/test-js/readme.md)
-1. [Tooling](/src/tools/readme.md)
-1. [Node Basics](/src/node/readme.md)
-1. [Client-Server Communication](/src/client-server/readme.md)
-1. [React](/src/react/readme.md)
-1. [TDD](/src/tdd/readme.md)
+1. [Git & Github](/src/git)
+1. [HTML](/src/html)
+1. [CSS Basics](/src/css)
+1. [JavaScript Basic](/src/javascript)
+1. [[Advanced JavaScript]](/src/advanced-js)
+1. [Testing JavaScript](/src/test-js)
+1. [Tooling](/src/tools)
+1. [Node Basics](/src/node)
+1. [Client-Server Communication](/src/client-server)
+1. [React](/src/react)
+1. [TDD](/src/tdd)
 
 ## What's next?
 You are done with basics of FED world. 
