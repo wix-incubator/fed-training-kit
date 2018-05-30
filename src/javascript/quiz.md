@@ -6,8 +6,8 @@
 
 ``` js
 let a = [0, 1];
-a.push(2);
 let b = a;
+a.push(2);
 console.log(b);
 ```
 
@@ -124,4 +124,4 @@ function verifyBeforeRender(successCallback) {
 ```
 
 ### 5. DOM API
-1. TBD
+1. Implement HTML page with a counter and two buttons of increment and decrement. Everything in JS. File of `index.html` should contain empty `body` as an initial state.
