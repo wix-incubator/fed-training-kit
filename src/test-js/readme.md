@@ -26,7 +26,7 @@ Automated testing frees us from the need of manually testing our code each time,
 1. Implement [FizzBuzz](http://rosettacode.org/wiki/FizzBuzz#Alternative_version_.28one-liner.29) function.
 2. Add a test case for each possibility, using Mocha.
 3. Add a FizzBuzz generator function that receives a number N generates a concatenated string with results from #1 from 1 ... N
-4. Add some tests to #4
+4. Add some tests to #3
 5. Make sure all tests run in chrome
 6. Make your test configuration output the code coverage
 
