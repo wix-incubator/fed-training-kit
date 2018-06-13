@@ -13,6 +13,7 @@ In this part you will learn different aspect of communication between client and
     1. HTTP Request & Response
     1. HTTP Headers
     1. HTTP Codes
+1. Cookies
 1. REST
     1. REST Methods
     1. Convention
