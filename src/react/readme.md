@@ -16,11 +16,13 @@ It's a library from Facebook that allows to write UI in the component way.
     1. Components' Props
     1. Components' State
     1. Initial Component Specs
-    1. Composability
 1. JSX
 1. Component Lifecycle & Reconciliation
     1. Referencing Components
     1. Child Reconciliation
+1. Components Tree Architecture
+    1. Higher-Order Components
+    1. Smart & Dumb components
 1. Data Flow - FLUX
 1. Performance Optimization
 1. Testing React
@@ -35,3 +37,4 @@ Build [minesweeper](http://www.freeminesweeper.org/help/minehelpinstructions.htm
 * [React Docs](https://reactjs.org/docs/hello-world.html)
 * [Intro to Flux](https://www.youtube.com/watch?v=nYkdrAPrdcw#t=10m10s) 
 * [Data fetching for React application](https://www.youtube.com/watch?v=9sc8Pyc51uU)
+* [7 Architectural Attributes of Realiable React Components](https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/)
