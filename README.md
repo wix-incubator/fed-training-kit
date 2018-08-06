@@ -31,10 +31,9 @@ You will need to install the following:
 1. [React](/src/react)
 1. [TDD](/src/tdd)
 
-## What's next?
+## Tell how it was?
 You are done with basics of FED world. 
-1. Tell us how it was. Please fill this [feedback form](https://goo.gl/forms/3RrN7JZ9pqSv9W9u1).
-2. Now, time to discover [fed-handbook](https://github.com/wix-private/fed-handbook) of Wix.
+Please fill this [feedback form](https://goo.gl/forms/3RrN7JZ9pqSv9W9u1).
 
 ## Missing something?
 You feel like missing something or found an awesome talk/tutorial that you believe everyone should read - [contribute](./CONTRIBUTING.md)!
