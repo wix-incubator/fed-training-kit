@@ -20,6 +20,7 @@ You will need to install the following:
 ## Topics to cover
 
 1. [Git & Github](/src/git)
+1. [Browser](/src/browser)
 1. [HTML](/src/html)
 1. [CSS Basics](/src/css)
 1. [JavaScript Basic](/src/javascript)
