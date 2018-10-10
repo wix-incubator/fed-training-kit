@@ -24,6 +24,7 @@ You will need to install the following:
 1. [CSS Basics](/src/css)
 1. [JavaScript Basic](/src/javascript)
 1. [[Advanced JavaScript]](/src/advanced-js)
+1. [Typescript](/src/typescript)
 1. [Testing JavaScript](/src/test-js)
 1. [Tooling](/src/tools)
 1. [Node Basics](/src/node)
