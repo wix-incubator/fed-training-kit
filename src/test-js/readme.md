@@ -17,7 +17,9 @@ Automated testing frees us from the need of manually testing our code each time,
     1. Mocha
     1. Chai
     1. Sinon
+    1. [Jest](https://jestjs.io/)
     1. Protractor (Selenium)
+    1. [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 1. Code coverage
 1. Linters: ESLint
 
