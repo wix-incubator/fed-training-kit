@@ -34,3 +34,4 @@ Typescript is a typed subset of JavaScript that compiles to plain JavaScript.
 ## Resources
 * [Typescript crash course video](https://www.youtube.com/watch?v=rAy_3SIqT-E)
 * [Typescript playground](https://www.typescriptlang.org/play/index.html)
+* [Typescript definitive guide - in russian] (https://nauchikus.github.io/typescript-definitive-guide/)
