@@ -52,3 +52,4 @@ It's important to understand that JS runs on various environments, and while it 
 * [You Don't Know JS Book Series](https://github.com/getify/You-Dont-Know-JS)
 * [JS Tutorials](https://github.com/workshopper/javascripting)
 * [Secrets of the JavaScript Ninja Book](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
