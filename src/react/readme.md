@@ -40,3 +40,4 @@ Build [minesweeper](http://www.freeminesweeper.org/help/minehelpinstructions.htm
 * [7 Architectural Attributes of Realiable React Components](https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/)
 * [Intro to Flux](https://www.youtube.com/watch?v=nYkdrAPrdcw#t=10m10s) 
 * [Data fetching for React application](https://www.youtube.com/watch?v=9sc8Pyc51uU)
+* [React and TypeScript FEM course](https://frontendmasters.com/courses/react-typescript/)
