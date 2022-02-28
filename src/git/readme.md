@@ -8,7 +8,7 @@ Git the de facto the standard tool for managing your code base. It saves revisio
     * `git add`
     * `git commit`
     * `git push`
-1. Get familiar with git flow
+1. Get familiar with github flow
 1. Learn rebase
 1. Understand Pull Requests and Code Reviews
 
@@ -16,5 +16,5 @@ Git the de facto the standard tool for managing your code base. It saves revisio
 * [Try git - interactive tutorial](https://try.github.io)
 
 ## Resources
-* [Understanding git flow](https://guides.github.com/introduction/flow/)
+* [Understanding github flow](https://guides.github.com/introduction/flow/)
 * [Merge vs. Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
