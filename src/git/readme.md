@@ -12,8 +12,13 @@ Git the de facto the standard tool for managing your code base. It saves revisio
 1. Learn rebase
 1. Understand Pull Requests and Code Reviews
 
+## Quick Start
+* [Git Basics](https://git-scm.com/videos)
+* [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) 
+
 ## Exercise
-* [Try git - interactive tutorial](https://try.github.io)
+* ~~[Try git - interactive tutorial](https://try.github.io)~~ `not exist anymore`
+* [Introduction to github](https://github.com/skills/introduction-to-github)
 
 ## Resources
 * [Understanding git flow](https://guides.github.com/introduction/flow/)
