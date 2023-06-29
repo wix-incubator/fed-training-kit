@@ -11,7 +11,3 @@ You should not use those parts in production but being aware of them is making y
 1. Implement several ES6 katas
 1. Solve [ES5 Quiz](http://dmitrysoshnikov.com/ecmascript/the-quiz/)
 1. Solve [ES6 Quiz](http://perfectionkills.com/javascript-quiz-es6/)
-
-## Resources
-* [ES6 Katas](http://es6katas.org/)
-* [JS Wat Talk](https://archive.org/details/wat_destroyallsoftware)
