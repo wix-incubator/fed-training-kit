@@ -1,5 +1,5 @@
 # Git & GitHub
-Git the de facto the standard tool for managing your code base. It saves revisions of code so that you will never loose it. Github based on `git` allows successful collaborative work of a team.
+Git the de facto the standard tool for managing your code base. It saves revisions of code so that you will never lose it. Github based on `git` allows successful collaborative work of a team.
 
 ## Goals
 1. Understand basic principals of Git
